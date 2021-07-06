@@ -44,7 +44,7 @@ jobs:
           cp -a .github/workflows/gitbook.yaml ${SRC_FOLDER}/.github/workflows/
           cp book.json ${SRC_FOLDER}
           cd ${SRC_FOLDER}
-          # mv {{Example}} README.md
+          mv _index.md README.md
           npm init -f
           npm install gitbook-summary
           npx book sm -t "${GITBOOK_TITLE}" -i node_modules
