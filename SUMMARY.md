@@ -322,7 +322,7 @@
       * [术语标准](releases/contribute/terminology/index.md)
     * [贡献文档](releases/contribute/_index.md)
   - Feature Stages
-    * [Feature Status](releases/feature-stages/index.md)
+    * [功能状态](releases/feature-stages/index.md)
   - Log
     * [网站内容更改](releases/log/index.md)
   - Security Vulnerabilities
