@@ -48,6 +48,8 @@
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
+    - Observability
+      * [可观察性最佳实践](ops/best-practices/observability/index.md)
     - Security
       * [安全最佳实践](ops/best-practices/security/index.md)
     - Traffic Management
@@ -463,6 +465,8 @@
         * [信任域迁移](tasks/security/authorization/authz-td-migration/index.md)
       * [授权](tasks/security/authorization/_index.md)
     - Cert Management
+      - Custom Ca K 8 S
+        * [使用 Kubernetes CSR 自定义 CA 集成](tasks/security/cert-management/custom-ca-k8s/index.md)
       - Dns Cert
         * [Istio 的 DNS 证书管理](tasks/security/cert-management/dns-cert/index.md)
       - Plugin Ca Cert
