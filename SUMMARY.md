@@ -124,6 +124,8 @@
       * [使用 Istioctl Analyze 诊断配置](ops/diagnostic-tools/istioctl-analyze/index.md)
     - Istioctl Describe
       * [通过 Istioctl Describe 理解您的网格](ops/diagnostic-tools/istioctl-describe/index.md)
+    - Multicluster
+      * [多集群下的故障排除](ops/diagnostic-tools/multicluster/index.md)
     - Proxy Cmd
       * [调试 Envoy 和 Istiod](ops/diagnostic-tools/proxy-cmd/index.md)
     - Virtual Machines
