@@ -96,7 +96,7 @@
       - Locality Load Balancing
         * [地域负载均衡](ops/configuration/traffic-management/locality-load-balancing/index.md)
       - Network Topologies
-        * [配置 Gateway 网络拓扑 [实验特性]](ops/configuration/traffic-management/network-topologies/index.md)
+        * [配置 Gateway 网络拓扑](ops/configuration/traffic-management/network-topologies/index.md)
       - Protocol Selection
         * [协议选择](ops/configuration/traffic-management/protocol-selection/index.md)
       - Tls Configuration
@@ -111,7 +111,7 @@
     - Performance And Scalability
       * [性能和可扩展性](ops/deployment/performance-and-scalability/index.md)
     - Requirements
-      * [Pod 和 Service](ops/deployment/requirements/index.md)
+      * [应用程序要求](ops/deployment/requirements/index.md)
     * [部署](ops/deployment/_index.md)
   - Diagnostic Tools
     - Component Logging
@@ -213,6 +213,10 @@
         * [Alpha Annotation](reference/config/analysis/ist0136/index.md)
       - Ist 0137
         * [Deployment Conflicting Ports](reference/config/analysis/ist0137/index.md)
+      - Ist 0144
+        * [Invalid Application UID](reference/config/analysis/ist0144/index.md)
+      - Ist 0150
+        * [External Name Service Type Invalid Port Name](reference/config/analysis/ist0150/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
@@ -224,23 +228,9 @@
       * [Istio 标准指标](reference/config/metrics/index.md)
     - Networking
       * [流量管理](reference/config/networking/_index.md)
-    - Policy And Telemetry
-      - Adapters
-        * [适配器](reference/config/policy-and-telemetry/adapters/_index.md)
-      - Attribute Vocabulary
-        * [属性词汇](reference/config/policy-and-telemetry/attribute-vocabulary/index.md)
-      - Expression Language
-        * [表达式语言](reference/config/policy-and-telemetry/expression-language/index.md)
-      - Metrics
-        * [默认监控指标](reference/config/policy-and-telemetry/metrics/index.md)
-      - Mixer Overview
-        * [Mixer 配置模型](reference/config/policy-and-telemetry/mixer-overview/index.md)
-      - Templates
-        * [模板](reference/config/policy-and-telemetry/templates/_index.md)
-      * [Mixer 策略和遥测](reference/config/policy-and-telemetry/_index.md)
     - Proxy Extensions
       - Wasm Telemetry
-        * [基于 Wasm 的遥测[实验特性]](reference/config/proxy_extensions/wasm_telemetry/index.md)
+        * [基于 Wasm 的遥测](reference/config/proxy_extensions/wasm_telemetry/index.md)
     - Security
       - Conditions
         * [授权策略](reference/config/security/conditions/index.md)
@@ -262,6 +252,9 @@
     * [Failure Domain](reference/glossary/failure-domain.md)
     * [Identity](reference/glossary/identity.md)
     * [术语表](reference/glossary/index.md)
+    * [IO](reference/glossary/io.md)
+    * [IOP](reference/glossary/iop.md)
+    * [Istio Operator Custom Resource](reference/glossary/istio-operator-custom-resource.md)
     * [Istiod](reference/glossary/istiod.md)
     * [Managed Control Plane](reference/glossary/managed-control-plane.md)
     * [Mesh Federation](reference/glossary/mesh-federation.md)
@@ -272,6 +265,7 @@
     * [Multi Mesh](reference/glossary/multi-mesh.md)
     * [Multicluster](reference/glossary/multicluster.md)
     * [Mutual TLS Authentication](reference/glossary/mutual-tls.md)
+    * [Namespace Sameness](reference/glossary/namespace-sameness.md)
     * [Network](reference/glossary/network.md)
     * [Operator](reference/glossary/operator.md)
     * [Pilot](reference/glossary/pilot.md)
@@ -316,6 +310,8 @@
       * [文章头部](releases/contribute/front-matter/index.md)
     - Github
       * [使用 GitHub 参与社区活动](releases/contribute/github/index.md)
+    - Remove Content
+      * [删除已停用的文档](releases/contribute/remove-content/index.md)
     - Review
       * [文档审阅流程](releases/contribute/review/index.md)
     - Shortcodes
@@ -396,6 +392,8 @@
       * [Oracle Cloud 基础架构](setup/platform-setup/oci/index.md)
     - Openshift
       * [Open Shift](setup/platform-setup/openshift/index.md)
+    - Tencent Cloud Mesh
+      * [腾讯云](setup/platform-setup/tencent-cloud-mesh/index.md)
     * [平台安装](setup/platform-setup/_index.md)
   - Upgrade
     - Canary
@@ -403,7 +401,7 @@
     - Cni Helm Upgrade
       * [使用 Helm 升级](setup/upgrade/cni-helm-upgrade/index.md)
     - Gateways
-      * [多版本的 Gateway  管理 [实验性]](setup/upgrade/gateways/index.md)
+      * [多版本的 Gateway 管理](setup/upgrade/gateways/index.md)
     - In Place
       * [热升级](setup/upgrade/in-place/index.md)
     - Istioctl Upgrade
@@ -429,10 +427,6 @@
     - Logs
       - Access Log
         * [获取 Envoy 访问日志](tasks/observability/logs/access-log/index.md)
-      - Collecting Logs
-        * [收集日志](tasks/observability/logs/collecting-logs/index.md)
-      - Fluentd
-        * [使用 Fluentd 进行日志收集](tasks/observability/logs/fluentd/index.md)
       * [日志](tasks/observability/logs/_index.md)
     - Metrics
       - Collecting Metrics
@@ -451,6 +445,8 @@
     - Authentication
       - Authn Policy
         * [认证策略](tasks/security/authentication/authn-policy/index.md)
+      - Jwt Route
+        * [基于 JWT 声明的路由](tasks/security/authentication/jwt-route/index.md)
       - Mtls Migration
         * [双向 TLS 迁移](tasks/security/authentication/mtls-migration/index.md)
       * [认证](tasks/security/authentication/_index.md)
@@ -474,12 +470,6 @@
       - Plugin Ca Cert
         * [插入 CA 证书](tasks/security/cert-management/plugin-ca-cert/index.md)
       * [证书管理](tasks/security/cert-management/_index.md)
-    - Citadel Config
-      * [Citadel 配置](tasks/security/citadel-config/_index.md)
-    - Dns Cert
-      * [Istio DNS 证书管理](tasks/security/dns-cert/index.md)
-    - Plugin Ca Cert
-      * [插入外部 CA 证书](tasks/security/plugin-ca-cert/index.md)
     * [安全](tasks/security/_index.md)
   - Traffic Management
     - Circuit Breaking
@@ -507,6 +497,8 @@
     - Fault Injection
       * [故障注入](tasks/traffic-management/fault-injection/index.md)
     - Ingress
+      - Gateway Api
+        * [Kubernetes Gateway API](tasks/traffic-management/ingress/gateway-api/index.md)
       - Ingress Control
         * [Ingress Gateway](tasks/traffic-management/ingress/ingress-control/index.md)
       - Ingress Sni Passthrough

@@ -17,7 +17,7 @@ Istio 会在尽可能[自动](/zh/docs/ops/configuration/traffic-management/tls-
 
 双向 TLS 本身不总是能够保证安全流量，因为它只提供了认证，而不是授权。这意味着任何拥有有效证书的人都可以访问负载。
 
-为了真正实现安全流量，建议同时配置[认证策略](/zh/docs/tasks/security/authorization/)。这些配置通过创建细粒度的策略来允许或拒绝流量。例如，您可以配置只允许来自 `app` 命名空间的请求访问 `hello-world` 负载。
+为了真正实现安全流量，建议同时配置[授权策略](/zh/docs/tasks/security/authorization/)。这些配置通过创建细粒度的策略来允许或拒绝流量。例如，您可以配置只允许来自 `app` 命名空间的请求访问 `hello-world` 负载。
 
 ## 授权策略{#authorization-policies}
 
@@ -321,10 +321,6 @@ Istio 可以[自动确定流量协议](/zh/docs/ops/configuration/traffic-manage
 为了透明地劫持所以流量， Istio 依赖 通过 `istio-init` `initContainer` 配置 `iptables` 规则。这增加了一个[要求](/zh/docs/ops/deployment/requirements/)，即需要提供给 Pod `NET_ADMIN` 和 `NET_RAW` [capabilities](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-capabilities-for-a-container)。
 
 为了减少给予 Pods 的权限， Istio 提供了 [CNI plugin](/zh/docs/setup/additional-setup/cni/) 功能，即不再需要以上权限。
-
-{{< warning >}}
-Istio CNI 插件目前仍是 alpha 特性。
-{{< /warning >}}
 
 ## 使用精简 docker 镜像{#use-hardened-docker-images}
 

@@ -1,10 +1,11 @@
 ---
-title: 配置 Gateway 网络拓扑 [实验特性]
-description: 如何配置 Gateway 网络拓扑 [实验特性]。
+title: 配置 Gateway 网络拓扑
+description: 如何配置 Gateway 网络拓扑。
 weight: 60
 keywords: [traffic-management,ingress,gateway]
 owner: istio/wg-networking-maintainers
-test: no
+test: yes
+status: Alpha
 ---
 
 ## 向目的地的工作负载转发外部客户端属性（IP 地址、证书信息）{#forwarding-external-client-attributes-to-destination-workloads}
@@ -155,10 +156,10 @@ spec:
 | `ENUM_VALUE`          |                                                                                                                                |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | `UNDEFINED`           | 没有设置字段。                                                                                                              |
-| `SANITIZE`            | 不要向下一跳地址发送 XFCC 头。这是 Gateway 的默认值。                                       |
+| `SANITIZE`            | 不要向下一跳地址发送 XFCC 头。                                       |
 | `FORWARD_ONLY`        | 当客户端连接为mTLS（Mutual TLS）时，在请求中转发 XFCC 头。                                       |
 | `APPEND_FORWARD`      | 当客户端连接为 mTLS 时，将客户端证书信息附加到请求的 XFCC头 中并转发。|
-| `SANITIZE_SET`        | 当客户端连接为 mTLS 时，用客户端证书信息重置 XFCC 头，并将其发送到下一跳地址。 |
+| `SANITIZE_SET`        | 当客户端连接为 mTLS 时，用客户端证书信息重置 XFCC 头，并将其发送到下一跳地址。这是 Gateway 的默认值。 |
 | `ALWAYS_FORWARD_ONLY` | 无论客户端连接是否为 mTLS，总是在请求中转发 XFCC 头。                            |
 
 参考 [Envoy 文档](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_conn_man/headers#x-forwarded-client-cert)，了解并使用此功能的示例。
