@@ -95,6 +95,8 @@
         * [DNS 代理](ops/configuration/traffic-management/dns-proxy/index.md)
       - Locality Load Balancing
         * [地域负载均衡](ops/configuration/traffic-management/locality-load-balancing/index.md)
+      - Multicluster
+        * [多集群流量管理](ops/configuration/traffic-management/multicluster/index.md)
       - Network Topologies
         * [配置 Gateway 网络拓扑](ops/configuration/traffic-management/network-topologies/index.md)
       - Protocol Selection
@@ -242,6 +244,7 @@
     * [Adapters](reference/glossary/adapters.md)
     * [Annotation](reference/glossary/annotation.md)
     * [Attribute](reference/glossary/attribute.md)
+    * [自动 mTLS](reference/glossary/auto-mtls.md)
     * [Cluster](reference/glossary/cluster.md)
     * [Control Plane](reference/glossary/control-plane.md)
     * [CR Ds](reference/glossary/crds.md)
@@ -250,8 +253,10 @@
     * [Envoy](reference/glossary/envoy.md)
     * [External Control Plane](reference/glossary/external-control-plane.md)
     * [Failure Domain](reference/glossary/failure-domain.md)
+    * [Gateway](reference/glossary/gateway.md)
     * [Identity](reference/glossary/identity.md)
     * [术语表](reference/glossary/index.md)
+    * [Injection](reference/glossary/injection.md)
     * [IO](reference/glossary/io.md)
     * [IOP](reference/glossary/iop.md)
     * [Istio Operator Custom Resource](reference/glossary/istio-operator-custom-resource.md)
