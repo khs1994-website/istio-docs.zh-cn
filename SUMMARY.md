@@ -239,6 +239,8 @@
       - Constraints And Properties
         * [RBAC 约束和属性（不建议使用）](reference/config/security/constraints-and-properties/index.md)
       * [Security](reference/config/security/_index.md)
+    - Type
+      * [常见类型](reference/config/type/_index.md)
     * [配置](reference/config/_index.md)
   - Glossary
     * [Adapters](reference/glossary/adapters.md)
