@@ -462,6 +462,8 @@
         * [明确拒绝](tasks/security/authorization/authz-deny/index.md)
       - Authz Http
         * [HTTP 流量授权](tasks/security/authorization/authz-http/index.md)
+      - Authz Ingress
+        * [入口网关](tasks/security/authorization/authz-ingress/index.md)
       - Authz Jwt
         * [基于 JWT 授权](tasks/security/authorization/authz-jwt/index.md)
       - Authz Tcp
