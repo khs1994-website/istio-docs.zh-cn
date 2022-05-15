@@ -422,6 +422,8 @@
         * [Jaeger](tasks/observability/distributed-tracing/jaeger/index.md)
       - Lightstep
         * [Light Step](tasks/observability/distributed-tracing/lightstep/index.md)
+      - Mesh And Proxy Config
+        * [使用 MeshConfig 和 Pod 注释配置跟踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
       - Overview
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
       - Zipkin
@@ -479,6 +481,10 @@
       - Plugin Ca Cert
         * [插入 CA 证书](tasks/security/cert-management/plugin-ca-cert/index.md)
       * [证书管理](tasks/security/cert-management/_index.md)
+    - Tls Configuration
+      - Workload Min Tls Version
+        * [Istio 工作负载的最低 TLS 版本配置](tasks/security/tls-configuration/workload-min-tls-version/index.md)
+      * [TLS Configuration](tasks/security/tls-configuration/_index.md)
     * [安全](tasks/security/_index.md)
   - Traffic Management
     - Circuit Breaking
