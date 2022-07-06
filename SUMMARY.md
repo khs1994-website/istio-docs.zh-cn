@@ -68,6 +68,8 @@
       * [配置验证的问题](ops/common-problems/validation/index.md)
     * [常见问题](ops/common-problems/_index.md)
   - Configuration
+    - Extensibility
+      * [可扩展性](ops/configuration/extensibility/_index.md)
     - Mesh
       - App Health Check
         * [Istio 服务的健康检查](ops/configuration/mesh/app-health-check/index.md)
@@ -249,7 +251,7 @@
     * [自动 mTLS](reference/glossary/auto-mtls.md)
     * [Cluster](reference/glossary/cluster.md)
     * [Control Plane](reference/glossary/control-plane.md)
-    * [CR Ds](reference/glossary/crds.md)
+    * [CRD](reference/glossary/crds.md)
     * [Data Plane](reference/glossary/data-plane.md)
     * [Destination](reference/glossary/destination.md)
     * [Envoy](reference/glossary/envoy.md)
@@ -385,6 +387,8 @@
       * [Kubernetes Gardener 快速开始](setup/platform-setup/gardener/index.md)
     - Gke
       * [使用 Google Kubernetes Engine 快速开始](setup/platform-setup/gke/index.md)
+    - Huaweicloud
+      * [华为云](setup/platform-setup/huaweicloud/index.md)
     - Ibm
       * [IBM Cloud 快速开始](setup/platform-setup/ibm/index.md)
     - [Kind](setup/platform-setup/kind/index.md)
@@ -460,6 +464,8 @@
         * [双向 TLS 迁移](tasks/security/authentication/mtls-migration/index.md)
       * [认证](tasks/security/authentication/_index.md)
     - Authorization
+      - Authz Custom
+        * [外部授权](tasks/security/authorization/authz-custom/index.md)
       - Authz Deny
         * [明确拒绝](tasks/security/authorization/authz-deny/index.md)
       - Authz Http
@@ -484,7 +490,7 @@
     - Tls Configuration
       - Workload Min Tls Version
         * [Istio 工作负载的最低 TLS 版本配置](tasks/security/tls-configuration/workload-min-tls-version/index.md)
-      * [TLS Configuration](tasks/security/tls-configuration/_index.md)
+      * [TLS 配置](tasks/security/tls-configuration/_index.md)
     * [安全](tasks/security/_index.md)
   - Traffic Management
     - Circuit Breaking
