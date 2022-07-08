@@ -453,6 +453,8 @@
       * [指标度量](tasks/observability/metrics/_index.md)
     * [可观察性](tasks/observability/_index.md)
   - Policy Enforcement
+    - Rate Limit
+      * [使用 Envoy 启用速率限制](tasks/policy-enforcement/rate-limit/index.md)
     * [策略执行](tasks/policy-enforcement/_index.md)
   - Security
     - Authentication
