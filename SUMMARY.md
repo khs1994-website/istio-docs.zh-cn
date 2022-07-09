@@ -69,6 +69,8 @@
     * [常见问题](ops/common-problems/_index.md)
   - Configuration
     - Extensibility
+      - Wasm Pull Policy
+        * [WebAssembly 模块的拉取策略](ops/configuration/extensibility/wasm-pull-policy/index.md)
       * [可扩展性](ops/configuration/extensibility/_index.md)
     - Mesh
       - App Health Check
@@ -403,6 +405,8 @@
       * [Oracle Cloud 基础架构](setup/platform-setup/oci/index.md)
     - Openshift
       * [Open Shift](setup/platform-setup/openshift/index.md)
+    - Prerequisites
+      * [平台前提条件](setup/platform-setup/prerequisites/index.md)
     - Tencent Cloud Mesh
       * [腾讯云](setup/platform-setup/tencent-cloud-mesh/index.md)
     * [平台安装](setup/platform-setup/_index.md)
