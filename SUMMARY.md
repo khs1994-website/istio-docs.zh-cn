@@ -446,8 +446,8 @@
         * [获取 Envoy 访问日志](tasks/observability/logs/access-log/index.md)
       * [日志](tasks/observability/logs/_index.md)
     - Metrics
-      - Collecting Metrics
-        * [采集指标](tasks/observability/metrics/collecting-metrics/index.md)
+      - Customize Metrics
+        * [自定义 Istio 指标](tasks/observability/metrics/customize-metrics/index.md)
       - Querying Metrics
         * [通过 Prometheus 查询度量指标](tasks/observability/metrics/querying-metrics/index.md)
       - Tcp Metrics
