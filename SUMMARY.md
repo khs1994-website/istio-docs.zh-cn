@@ -456,7 +456,7 @@
         * [收集 TCP 服务指标](tasks/observability/metrics/tcp-metrics/index.md)
       - Using Istio Dashboard
         * [使用 Grafana 可视化指标](tasks/observability/metrics/using-istio-dashboard/index.md)
-      * [指标度量](tasks/observability/metrics/_index.md)
+      * [指标](tasks/observability/metrics/_index.md)
     * [可观察性](tasks/observability/_index.md)
   - Policy Enforcement
     - Rate Limit
