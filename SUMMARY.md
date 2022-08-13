@@ -347,6 +347,8 @@
       * [安装 Istio CNI 插件](setup/additional-setup/cni/index.md)
     - Config Profiles
       * [安装配置文件](setup/additional-setup/config-profiles/index.md)
+    - Customize Installation Helm
+      * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
     - External Controlplane
       * [使用外部控制平面安装 Istio](setup/additional-setup/external-controlplane/index.md)
     - Sidecar Injection
