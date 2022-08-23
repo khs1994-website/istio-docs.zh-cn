@@ -223,6 +223,8 @@
         * [Invalid Application UID](reference/config/analysis/ist0144/index.md)
       - Ist 0150
         * [External Name Service Type Invalid Port Name](reference/config/analysis/ist0150/index.md)
+      - Ist 0152
+        * [Envoy Filter Uses Replace Operation Incorrectly](reference/config/analysis/ist0152/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
