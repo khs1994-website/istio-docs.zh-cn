@@ -546,12 +546,6 @@
         * [Kubernetes Ingress](tasks/traffic-management/ingress/kubernetes-ingress/index.md)
       - Secure Ingress
         * [Secure Gateways](tasks/traffic-management/ingress/secure-ingress/index.md)
-      - Secure Ingress Mount
-        * [安全网关（文件挂载）](tasks/traffic-management/ingress/secure-ingress-mount/index.md)
-      - Secure Ingress Sds
-        * [使用 SDS 为 Gateway 提供 HTTPS 加密支持](tasks/traffic-management/ingress/secure-ingress-sds/index.md)
-      - Service Apis
-        * [Kubernetes Service AP Is](tasks/traffic-management/ingress/service-apis/index.md)
       * [Ingress](tasks/traffic-management/ingress/_index.md)
     - Locality Load Balancing
       - Before You Begin
