@@ -48,6 +48,8 @@
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
+    - Image Signing Validation
+      * [镜像签名和验证](ops/best-practices/image-signing-validation/index.md)
     - Observability
       * [可观察性最佳实践](ops/best-practices/observability/index.md)
     - Security
@@ -434,6 +436,10 @@
     * [升级 Istio](setup/upgrade/_index.md)
   * [安装](setup/_index.md)
 - Tasks
+  - Extensibility
+    - Wasm Module Distribution
+      * [WebAssembly 模块分发](tasks/extensibility/wasm-module-distribution/index.md)
+    * [可扩展性](tasks/extensibility/_index.md)
   - Observability
     - Distributed Tracing
       - Jaeger
