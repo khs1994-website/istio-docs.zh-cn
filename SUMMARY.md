@@ -79,10 +79,6 @@
         * [Istio 服务的健康检查](ops/configuration/mesh/app-health-check/index.md)
       - Config Resource Ready
         * [等待应用的配置资源状态就绪](ops/configuration/mesh/config-resource-ready/index.md)
-      - Injection Concepts
-        * [Sidecar 自动注入](ops/configuration/mesh/injection-concepts/index.md)
-      - Secret Creation
-        * [创建服务账号 Secret](ops/configuration/mesh/secret-creation/index.md)
       - Webhook
         * [动态准入 Webhook 概述](ops/configuration/mesh/webhook/index.md)
       * [网格配置](ops/configuration/mesh/_index.md)
