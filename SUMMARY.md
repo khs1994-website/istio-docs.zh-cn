@@ -276,8 +276,6 @@
     * [Managed Control Plane](reference/glossary/managed-control-plane.md)
     * [Mesh Federation](reference/glossary/mesh-federation.md)
     * [Micro Segmentation](reference/glossary/micro-segmentation.md)
-    * [Mixer Handler](reference/glossary/mixer-handler.md)
-    * [Mixer Instance](reference/glossary/mixer-instance.md)
     * [Mixer](reference/glossary/mixer.md)
     * [Multi Mesh](reference/glossary/multi-mesh.md)
     * [Multicluster](reference/glossary/multicluster.md)
