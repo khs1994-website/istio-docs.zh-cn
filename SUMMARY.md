@@ -2,7 +2,7 @@
 
 - Concepts
   - Observability
-    * [可观察性](concepts/observability/index.md)
+    * [可观测性](concepts/observability/index.md)
   - Security
     * [安全](concepts/security/index.md)
   - Traffic Management
@@ -419,14 +419,8 @@
   - Upgrade
     - Canary
       * [金丝雀升级](setup/upgrade/canary/index.md)
-    - Cni Helm Upgrade
-      * [使用 Helm 升级](setup/upgrade/cni-helm-upgrade/index.md)
-    - Gateways
-      * [多版本的 Gateway 管理](setup/upgrade/gateways/index.md)
     - In Place
       * [热升级](setup/upgrade/in-place/index.md)
-    - Istioctl Upgrade
-      * [使用 istioctl 命令升级 Istio [实验中]](setup/upgrade/istioctl-upgrade/index.md)
     * [升级 Istio](setup/upgrade/_index.md)
   * [安装](setup/_index.md)
 - Tasks
@@ -487,7 +481,7 @@
       - Authz Deny
         * [明确拒绝](tasks/security/authorization/authz-deny/index.md)
       - Authz Http
-        * [HTTP 流量授权](tasks/security/authorization/authz-http/index.md)
+        * [HTTP 流量](tasks/security/authorization/authz-http/index.md)
       - Authz Ingress
         * [入口网关](tasks/security/authorization/authz-ingress/index.md)
       - Authz Jwt
