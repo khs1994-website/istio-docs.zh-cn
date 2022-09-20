@@ -9,8 +9,6 @@
     * [流量管理](concepts/traffic-management/index.md)
   - Wasm
     * [扩展性](concepts/wasm/index.md)
-  - What Is Istio
-    * [Istio 是什么？](concepts/what-is-istio/index.md)
   * [概念](concepts/_index.md)
 - Examples
   - Bookinfo
