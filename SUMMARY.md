@@ -483,7 +483,7 @@
       - Authz Ingress
         * [入口网关](tasks/security/authorization/authz-ingress/index.md)
       - Authz Jwt
-        * [基于 JWT 授权](tasks/security/authorization/authz-jwt/index.md)
+        * [JWT 令牌](tasks/security/authorization/authz-jwt/index.md)
       - Authz Tcp
         * [TCP 流量](tasks/security/authorization/authz-tcp/index.md)
       - Authz Td Migration
