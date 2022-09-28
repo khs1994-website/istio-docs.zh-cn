@@ -417,8 +417,10 @@
   - Upgrade
     - Canary
       * [金丝雀升级](setup/upgrade/canary/index.md)
+    - Helm
+      * [使用 Helm 升级](setup/upgrade/helm/index.md)
     - In Place
-      * [热升级](setup/upgrade/in-place/index.md)
+      * [原地升级](setup/upgrade/in-place/index.md)
     * [升级 Istio](setup/upgrade/_index.md)
   * [安装](setup/_index.md)
 - Tasks
