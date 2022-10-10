@@ -223,6 +223,8 @@
         * [Envoy Filter Uses Relative Operation](reference/config/analysis/ist0151/index.md)
       - Ist 0152
         * [Envoy Filter Uses Replace Operation Incorrectly](reference/config/analysis/ist0152/index.md)
+      - Ist 0153
+        * [Envoy Filter Uses Add Operation Incorrectly](reference/config/analysis/ist0153/index.md)
       - Ist 0154
         * [Envoy Filter Uses Remove Operation Incorrectly](reference/config/analysis/ist0154/index.md)
       - Ist 0155
