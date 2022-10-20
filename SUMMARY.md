@@ -91,6 +91,8 @@
         * [使用 Prometheus 监控 Istio 多集群](ops/configuration/telemetry/monitoring-multicluster-prometheus/index.md)
       * [可观测性](ops/configuration/telemetry/_index.md)
     - Traffic Management
+      - Dns
+        * [理解 DNS](ops/configuration/traffic-management/dns/index.md)
       - Dns Proxy
         * [DNS 代理](ops/configuration/traffic-management/dns-proxy/index.md)
       - Locality Load Balancing
