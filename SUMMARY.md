@@ -543,7 +543,7 @@
       - Kubernetes Ingress
         * [Kubernetes Ingress](tasks/traffic-management/ingress/kubernetes-ingress/index.md)
       - Secure Ingress
-        * [Secure Gateways](tasks/traffic-management/ingress/secure-ingress/index.md)
+        * [安全网关](tasks/traffic-management/ingress/secure-ingress/index.md)
       * [Ingress](tasks/traffic-management/ingress/_index.md)
     - Locality Load Balancing
       - Before You Begin
