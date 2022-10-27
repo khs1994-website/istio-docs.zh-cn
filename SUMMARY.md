@@ -517,7 +517,7 @@
       - Egress Control
         * [访问外部服务](tasks/traffic-management/egress/egress-control/index.md)
       - Egress Gateway
-        * [Egress Gateway](tasks/traffic-management/egress/egress-gateway/index.md)
+        * [出口网关](tasks/traffic-management/egress/egress-gateway/index.md)
       - Egress Gateway Tls Origination
         * [Egress 网关的 TLS 发起过程](tasks/traffic-management/egress/egress-gateway-tls-origination/index.md)
       - Egress Gateway Tls Origination Sds
@@ -537,7 +537,7 @@
       - Gateway Api
         * [Kubernetes Gateway API](tasks/traffic-management/ingress/gateway-api/index.md)
       - Ingress Control
-        * [Ingress Gateway](tasks/traffic-management/ingress/ingress-control/index.md)
+        * [入口网关](tasks/traffic-management/ingress/ingress-control/index.md)
       - Ingress Sni Passthrough
         * [无 TLS 终止的 Ingress Gateway](tasks/traffic-management/ingress/ingress-sni-passthrough/index.md)
       - Kubernetes Ingress
