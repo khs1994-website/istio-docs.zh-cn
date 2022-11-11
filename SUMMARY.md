@@ -355,14 +355,14 @@
       * [安装配置文件](setup/additional-setup/config-profiles/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
-    - External Controlplane
-      * [使用外部控制平面安装 Istio](setup/additional-setup/external-controlplane/index.md)
     - Sidecar Injection
       * [安装 Sidecar](setup/additional-setup/sidecar-injection/index.md)
     * [更多指南](setup/additional-setup/_index.md)
   - Getting Started
     * [入门](setup/getting-started/index.md)
   - Install
+    - External Controlplane
+      * [使用外部控制平面安装 Istio](setup/install/external-controlplane/index.md)
     - Helm
       * [使用 Helm 安装](setup/install/helm/index.md)
     - Istioctl
