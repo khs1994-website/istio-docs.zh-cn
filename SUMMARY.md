@@ -448,7 +448,7 @@
     - Gateways
       * [远程访问遥测插件](tasks/observability/gateways/index.md)
     - Kiali
-      * [网络可视化](tasks/observability/kiali/index.md)
+      * [网格可视化](tasks/observability/kiali/index.md)
     - Logs
       - Access Log
         * [获取 Envoy 访问日志](tasks/observability/logs/access-log/index.md)
