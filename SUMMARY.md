@@ -353,6 +353,8 @@
       * [安装 Istio CNI 插件](setup/additional-setup/cni/index.md)
     - Config Profiles
       * [安装配置文件](setup/additional-setup/config-profiles/index.md)
+    - Customize Installation
+      * [定制安装配置](setup/additional-setup/customize-installation/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
     - Sidecar Injection
