@@ -4,7 +4,7 @@ source_repo: https://github.com/istio/istio
 title: istioctl
 description: Istio control interface.
 generator: pkg-collateral-docs
-number_of_entries: 102
+number_of_entries: 103
 max_toc_level: 2
 remove_toc_prefix: 'istioctl '
 ---
@@ -270,6 +270,11 @@ debug and diagnose their Istio mesh.
 <td>Process directory arguments recursively. Useful when you want to analyze related manifests organized within the same directory. </td>
 </tr>
 <tr>
+<td><code>--revision &lt;string&gt;</code></td>
+<td></td>
+<td>analyze a specific revision deployed.  (default `default`)</td>
+</tr>
+<tr>
 <td><code>--suppress &lt;stringArray&gt;</code></td>
 <td><code>-S</code></td>
 <td>Suppress reporting a message code on a specific resource. Values are supplied in the form &lt;code&gt;=&lt;resource&gt; (e.g. &#39;--suppress &#34;IST0102=DestinationRule primary-dr.default&#34;&#39;). Can be repeated. You can include the wildcard character &#39;*&#39; to support a partial match (e.g. &#39;--suppress &#34;IST0102=DestinationRule *.default&#34; ).  (default `[]`)</td>
@@ -299,6 +304,9 @@ debug and diagnose their Istio mesh.
 <h3 id="istioctl-analyze Examples">Examples</h3>
 <pre class="language-bash"><code>  # Analyze the current live cluster
   istioctl analyze
+
+  # Analyze the current live cluster for a specific revision
+  istioctl analyze --revision 1-16
 
   # Analyze the current live cluster, simulating the effect of applying additional yaml files
   istioctl analyze a.yaml b.yaml my-app-config/
@@ -5878,6 +5886,68 @@ istioctl proxy-config c [&lt;type&gt;/]&lt;name&gt;[.&lt;namespace&gt;] [flags]
   istioctl proxy-config clusters --file envoy-config.json
 
 </code></pre>
+<h2 id="istioctl-proxy-config-ecds">istioctl proxy-config ecds</h2>
+<p>Retrieve information about typed extension configuration for the Envoy instance in the specified pod.</p>
+<pre class="language-bash"><code>istioctl proxy-config ecds [&lt;type&gt;/]&lt;name&gt;[.&lt;namespace&gt;] [flags]
+</code></pre>
+<div class="aliases">
+<pre class="language-bash"><code>istioctl proxy-config ec [&lt;type&gt;/]&lt;name&gt;[.&lt;namespace&gt;] [flags]
+</code></pre></div>
+<table class="command-flags">
+<thead>
+<tr>
+<th>Flags</th>
+<th>Shorthand</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--context &lt;string&gt;</code></td>
+<td></td>
+<td>The name of the kubeconfig context to use  (default ``)</td>
+</tr>
+<tr>
+<td><code>--file &lt;string&gt;</code></td>
+<td><code>-f</code></td>
+<td>Envoy config dump JSON file  (default ``)</td>
+</tr>
+<tr>
+<td><code>--istioNamespace &lt;string&gt;</code></td>
+<td><code>-i</code></td>
+<td>Istio system namespace  (default `istio-system`)</td>
+</tr>
+<tr>
+<td><code>--kubeconfig &lt;string&gt;</code></td>
+<td><code>-c</code></td>
+<td>Kubernetes configuration file  (default ``)</td>
+</tr>
+<tr>
+<td><code>--namespace &lt;string&gt;</code></td>
+<td><code>-n</code></td>
+<td>Config namespace  (default ``)</td>
+</tr>
+<tr>
+<td><code>--output &lt;string&gt;</code></td>
+<td><code>-o</code></td>
+<td>Output format: one of json|yaml  (default `short`)</td>
+</tr>
+<tr>
+<td><code>--vklog &lt;Level&gt;</code></td>
+<td></td>
+<td>number for the log level verbosity. Like -v flag. ex: --vklog=9  (default `0`)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="istioctl-proxy-config-ecds Examples">Examples</h3>
+<pre class="language-bash"><code>  # Retrieve full typed extension configuration for a given pod from Envoy.
+  istioctl proxy-config ecds &lt;pod-name[.namespace]&gt;
+
+  # Retrieve endpoint summary without using Kubernetes API
+  ssh &lt;user@hostname&gt; &#39;curl localhost:15000/config_dump&#39; &gt; envoy-config.json
+  istioctl proxy-config ecds --file envoy-config.json
+
+</code></pre>
 <h2 id="istioctl-proxy-config-endpoint">istioctl proxy-config endpoint</h2>
 <p>Retrieve information about endpoint configuration for the Envoy instance in the specified pod.</p>
 <pre class="language-bash"><code>istioctl proxy-config endpoint [&lt;type&gt;/]&lt;name&gt;[.&lt;namespace&gt;] [flags]
@@ -7389,6 +7459,12 @@ These environment variables affect the behavior of the <code>istioctl</code> com
 <td>Boolean</td>
 <td><code>false</code></td>
 <td>If enabled, pilot will only send the delta configs as opposed to the state of the world on a Resource Request. This feature uses the delta xds api, but does not currently send the actual deltas.</td>
+</tr>
+<tr>
+<td><code>ISTIO_DUAL_STACK</code></td>
+<td>Boolean</td>
+<td><code>false</code></td>
+<td>If enabled, pilot will configure clusters/listeners/routes for dual stack capability.</td>
 </tr>
 <tr>
 <td><code>ISTIO_ENABLE_HTTP2_PROBING</code></td>
