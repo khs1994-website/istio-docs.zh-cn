@@ -146,6 +146,8 @@
       * [Kiali](ops/integrations/kiali/index.md)
     - Prometheus
       * [Prometheus](ops/integrations/prometheus/index.md)
+    - Skywalking
+      * [Apache Sky Walking](ops/integrations/skywalking/index.md)
     - Zipkin
       * [Zipkin](ops/integrations/zipkin/index.md)
     * [集成](ops/integrations/_index.md)
