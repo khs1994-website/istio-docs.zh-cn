@@ -83,6 +83,8 @@
     - Security
       - Harden Docker Images
         * [加固 Docker 容器镜像](ops/configuration/security/harden-docker-images/index.md)
+      - Security Policy Examples
+        * [安全策略示例](ops/configuration/security/security-policy-examples/index.md)
       * [安全](ops/configuration/security/_index.md)
     - Telemetry
       - Envoy Stats
@@ -443,7 +445,7 @@
       - Jaeger
         * [Jaeger](tasks/observability/distributed-tracing/jaeger/index.md)
       - Lightstep
-        * [Light Step](tasks/observability/distributed-tracing/lightstep/index.md)
+        * [Lightstep](tasks/observability/distributed-tracing/lightstep/index.md)
       - Mesh And Proxy Config
         * [使用 MeshConfig 和 Pod 注释配置跟踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
       - Overview
