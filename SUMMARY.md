@@ -450,6 +450,8 @@
         * [使用 MeshConfig 和 Pod 注释配置跟踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
       - Overview
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
+      - Skywalking
+        * [Apache Sky Walking](tasks/observability/distributed-tracing/skywalking/index.md)
       - Zipkin
         * [Zipkin](tasks/observability/distributed-tracing/zipkin/index.md)
       * [分布式追踪](tasks/observability/distributed-tracing/_index.md)
@@ -482,6 +484,8 @@
     - Authentication
       - Authn Policy
         * [认证策略](tasks/security/authentication/authn-policy/index.md)
+      - Claim To Header
+        * [复制 JWT 声明到 HTTP 头](tasks/security/authentication/claim-to-header/index.md)
       - Jwt Route
         * [基于 JWT 声明的路由](tasks/security/authentication/jwt-route/index.md)
       - Mtls Migration
