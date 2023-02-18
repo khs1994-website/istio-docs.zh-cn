@@ -448,6 +448,8 @@
         * [Lightstep](tasks/observability/distributed-tracing/lightstep/index.md)
       - Mesh And Proxy Config
         * [使用 MeshConfig 和 Pod 注释配置跟踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
+      - Opencensusagent
+        * [Open Census Agent](tasks/observability/distributed-tracing/opencensusagent/index.md)
       - Overview
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
       - Skywalking
