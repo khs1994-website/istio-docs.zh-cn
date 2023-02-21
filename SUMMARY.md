@@ -415,8 +415,7 @@
     - Kubesphere
       * [Kube Sphere Container Platform](setup/platform-setup/kubesphere/index.md)
     - [Micro K 8 S](setup/platform-setup/MicroK8s/index.md)
-    - Minikube
-      * [Minikube](setup/platform-setup/minikube/index.md)
+    - [Minikube](setup/platform-setup/minikube/index.md)
     - Oci
       * [Oracle Cloud 基础架构](setup/platform-setup/oci/index.md)
     - Openshift
