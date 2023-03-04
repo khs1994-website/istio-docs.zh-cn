@@ -409,6 +409,7 @@
       * [华为云](setup/platform-setup/huaweicloud/index.md)
     - Ibm
       * [IBM Cloud 快速开始](setup/platform-setup/ibm/index.md)
+    - [K 3 D](setup/platform-setup/k3d/index.md)
     - [Kind](setup/platform-setup/kind/index.md)
     - Kops
       * [Kops](setup/platform-setup/kops/index.md)
