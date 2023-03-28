@@ -476,6 +476,8 @@
         * [通过 Prometheus 查询度量指标](tasks/observability/metrics/querying-metrics/index.md)
       - Tcp Metrics
         * [收集 TCP 服务指标](tasks/observability/metrics/tcp-metrics/index.md)
+      - Telemetry Api
+        * [使用 Telemetry API 自定义 Istio 监控指标](tasks/observability/metrics/telemetry-api/index.md)
       - Using Istio Dashboard
         * [使用 Grafana 可视化指标](tasks/observability/metrics/using-istio-dashboard/index.md)
       * [指标](tasks/observability/metrics/_index.md)
