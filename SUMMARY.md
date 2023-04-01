@@ -43,6 +43,10 @@
     * [在虚拟机上部署 Bookinfo 应用程序](examples/virtual-machines/index.md)
   * [示例](examples/_index.md)
 - Ops
+  - Ambient
+    - Getting Started
+      * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
+    * [Ambient Mesh [施工中]](ops/ambient/_index.md)
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
@@ -262,6 +266,7 @@
     * [配置](reference/config/_index.md)
   - Glossary
     * [Adapters](reference/glossary/adapters.md)
+    * [Ambient](reference/glossary/ambient.md)
     * [Annotation](reference/glossary/annotation.md)
     * [Attribute](reference/glossary/attribute.md)
     * [自动 mTLS](reference/glossary/auto-mtls.md)
@@ -311,9 +316,11 @@
     * [TLS Origination](reference/glossary/tls-origination.md)
     * [Trust Domain Migration](reference/glossary/trust-domain-migration.md)
     * [Trust Domain](reference/glossary/trust-domain.md)
+    * [Waypoint](reference/glossary/waypoint.md)
     * [Workload Instance Principal](reference/glossary/workload-instance-principal.md)
     * [Workload Instance](reference/glossary/workload-instance.md)
     * [Workload](reference/glossary/workload.md)
+    * [Ztunnel](reference/glossary/ztunnel.md)
   * [参考](reference/_index.md)
 - Releases
   - Bugs
