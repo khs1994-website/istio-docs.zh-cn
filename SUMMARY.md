@@ -44,6 +44,8 @@
   * [示例](examples/_index.md)
 - Ops
   - Ambient
+    - Architecture
+      * [Ambient Mesh 架构](ops/ambient/architecture/index.md)
     - Getting Started
       * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
     * [Ambient Mesh [施工中]](ops/ambient/_index.md)
@@ -279,6 +281,7 @@
     * [External Control Plane](reference/glossary/external-control-plane.md)
     * [Failure Domain](reference/glossary/failure-domain.md)
     * [Gateway](reference/glossary/gateway.md)
+    * [HBONE](reference/glossary/hbone.md)
     * [Identity](reference/glossary/identity.md)
     * [术语表](reference/glossary/index.md)
     * [Injection](reference/glossary/injection.md)
