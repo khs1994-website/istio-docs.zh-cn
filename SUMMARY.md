@@ -124,6 +124,8 @@
       * [性能和可扩展性](ops/deployment/performance-and-scalability/index.md)
     - Requirements
       * [应用程序要求](ops/deployment/requirements/index.md)
+    - Vm Architecture
+      * [虚拟机架构](ops/deployment/vm-architecture/index.md)
     * [部署](ops/deployment/_index.md)
   - Diagnostic Tools
     - Cni
