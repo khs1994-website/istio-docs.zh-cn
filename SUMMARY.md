@@ -468,6 +468,8 @@
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
       - Skywalking
         * [Apache Sky Walking](tasks/observability/distributed-tracing/skywalking/index.md)
+      - Telemetry Api
+        * [使用 Telemetry API 配置链路追踪](tasks/observability/distributed-tracing/telemetry-api/index.md)
       - Zipkin
         * [Zipkin](tasks/observability/distributed-tracing/zipkin/index.md)
       * [分布式追踪](tasks/observability/distributed-tracing/_index.md)
