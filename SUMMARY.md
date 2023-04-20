@@ -375,6 +375,8 @@
       * [定制安装配置](setup/additional-setup/customize-installation/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
+    - Pod Security Admission
+      * [通过 Pod 安全准入安装 Istio](setup/additional-setup/pod-security-admission/index.md)
     - Sidecar Injection
       * [安装 Sidecar](setup/additional-setup/sidecar-injection/index.md)
     * [更多指南](setup/additional-setup/_index.md)
@@ -495,6 +497,8 @@
       - Using Istio Dashboard
         * [使用 Grafana 可视化指标](tasks/observability/metrics/using-istio-dashboard/index.md)
       * [指标](tasks/observability/metrics/_index.md)
+    - Telemetry
+      * [Telemetry API](tasks/observability/telemetry/index.md)
     * [可观察性](tasks/observability/_index.md)
   - Policy Enforcement
     - Rate Limit
@@ -516,6 +520,8 @@
         * [外部授权](tasks/security/authorization/authz-custom/index.md)
       - Authz Deny
         * [明确拒绝](tasks/security/authorization/authz-deny/index.md)
+      - Authz Dry Run
+        * [模拟运行](tasks/security/authorization/authz-dry-run/index.md)
       - Authz Http
         * [HTTP 流量](tasks/security/authorization/authz-http/index.md)
       - Authz Ingress
