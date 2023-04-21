@@ -482,6 +482,10 @@
     - Logs
       - Access Log
         * [获取 Envoy 访问日志](tasks/observability/logs/access-log/index.md)
+      - Otel Provider
+        * [Open Telemetry](tasks/observability/logs/otel-provider/index.md)
+      - Telemetry Api
+        * [使用 Telemetry API 配置访问日志](tasks/observability/logs/telemetry-api/index.md)
       * [日志](tasks/observability/logs/_index.md)
     - Metrics
       - Classify Metrics
