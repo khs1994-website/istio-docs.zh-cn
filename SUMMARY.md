@@ -55,7 +55,7 @@
     - Image Signing Validation
       * [镜像签名和验证](ops/best-practices/image-signing-validation/index.md)
     - Observability
-      * [可观察性最佳实践](ops/best-practices/observability/index.md)
+      * [可观测性最佳实践](ops/best-practices/observability/index.md)
     - Security
       * [安全最佳实践](ops/best-practices/security/index.md)
     - Traffic Management
@@ -375,6 +375,8 @@
       * [定制安装配置](setup/additional-setup/customize-installation/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
+    - Getting Started
+      * [开始使用 Istio 和 Kubernetes Gateway API](setup/additional-setup/getting-started/index.md)
     - Pod Security Admission
       * [通过 Pod 安全准入安装 Istio](setup/additional-setup/pod-security-admission/index.md)
     - Sidecar Injection
