@@ -181,8 +181,6 @@
         * [Pod Missing Proxy](reference/config/analysis/ist0103/index.md)
       - Ist 0104
         * [Gateway Port Not On Workload](reference/config/analysis/ist0104/index.md)
-      - Ist 0105
-        * [Istio Proxy Image Mismatch](reference/config/analysis/ist0105/index.md)
       - Ist 0106
         * [Schema Validation Error](reference/config/analysis/ist0106/index.md)
       - Ist 0107
