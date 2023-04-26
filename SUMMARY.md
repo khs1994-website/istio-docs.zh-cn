@@ -373,6 +373,8 @@
       * [定制安装配置](setup/additional-setup/customize-installation/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
+    - Gateway
+      * [安装 Gateway](setup/additional-setup/gateway/index.md)
     - Getting Started
       * [开始使用 Istio 和 Kubernetes Gateway API](setup/additional-setup/getting-started/index.md)
     - Pod Security Admission
