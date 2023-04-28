@@ -401,7 +401,7 @@
       - Primary Remote
         * [主-从架构的安装](setup/install/multicluster/primary-remote/index.md)
       - Primary Remote Multi Network
-        * [跨网络主-从架构的安装](setup/install/multicluster/primary-remote_multi-network/index.md)
+        * [跨网络主从架构的安装](setup/install/multicluster/primary-remote_multi-network/index.md)
       - Verify
         * [验证安装结果](setup/install/multicluster/verify/index.md)
       * [多集群安装](setup/install/multicluster/_index.md)
@@ -556,8 +556,6 @@
     - Circuit Breaking
       * [熔断](tasks/traffic-management/circuit-breaking/index.md)
     - Egress
-      - Egress Sni Monitoring And Policies
-        * [TLS Egress 监控和策略配置](tasks/traffic-management/egress/egress_sni_monitoring_and_policies/index.md)
       - Egress Control
         * [访问外部服务](tasks/traffic-management/egress/egress-control/index.md)
       - Egress Gateway
