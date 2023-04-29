@@ -103,8 +103,6 @@
         * [理解 DNS](ops/configuration/traffic-management/dns/index.md)
       - Dns Proxy
         * [DNS 代理](ops/configuration/traffic-management/dns-proxy/index.md)
-      - Locality Load Balancing
-        * [地域负载均衡](ops/configuration/traffic-management/locality-load-balancing/index.md)
       - Multicluster
         * [多集群流量管理](ops/configuration/traffic-management/multicluster/index.md)
       - Network Topologies
@@ -248,8 +246,6 @@
       * [配置分析消息](reference/config/analysis/_index.md)
     - Config Status
       * [状态字段配置](reference/config/config-status/index.md)
-    - Installation Options
-      * [安装选项（Helm）](reference/config/installation-options/index.md)
     - Metrics
       * [Istio 标准指标](reference/config/metrics/index.md)
     - Networking
