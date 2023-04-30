@@ -126,6 +126,8 @@
       * [虚拟机架构](ops/deployment/vm-architecture/index.md)
     * [部署](ops/deployment/_index.md)
   - Diagnostic Tools
+    - Check Inject
+      * [使用 istioctl check-inject 验证 Istio Sidecar 注入](ops/diagnostic-tools/check-inject/index.md)
     - Cni
       * [Troubleshooting The Istio CNI Plugin](ops/diagnostic-tools/cni/index.md)
     - Component Logging
