@@ -139,7 +139,7 @@
     - Istioctl Analyze
       * [使用 Istioctl Analyze 诊断配置](ops/diagnostic-tools/istioctl-analyze/index.md)
     - Istioctl Describe
-      * [通过 Istioctl Describe 理解您的网格](ops/diagnostic-tools/istioctl-describe/index.md)
+      * [通过 istioctl describe 检查您的网格](ops/diagnostic-tools/istioctl-describe/index.md)
     - Multicluster
       * [多集群下的故障排除](ops/diagnostic-tools/multicluster/index.md)
     - Proxy Cmd
