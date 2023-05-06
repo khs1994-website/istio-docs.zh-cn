@@ -531,7 +531,7 @@
       - Authz Http
         * [HTTP 流量](tasks/security/authorization/authz-http/index.md)
       - Authz Ingress
-        * [入口网关](tasks/security/authorization/authz-ingress/index.md)
+        * [Ingress 网关](tasks/security/authorization/authz-ingress/index.md)
       - Authz Jwt
         * [JWT 令牌](tasks/security/authorization/authz-jwt/index.md)
       - Authz Tcp
@@ -562,8 +562,6 @@
         * [出口网关](tasks/traffic-management/egress/egress-gateway/index.md)
       - Egress Gateway Tls Origination
         * [Egress 网关的 TLS 发起过程](tasks/traffic-management/egress/egress-gateway-tls-origination/index.md)
-      - Egress Gateway Tls Origination Sds
-        * [Egress 网关 TLS 连接 发起的过程 (SDS)](tasks/traffic-management/egress/egress-gateway-tls-origination-sds/index.md)
       - Egress Kubernetes Services
         * [Kubernetes Egress 流量服务](tasks/traffic-management/egress/egress-kubernetes-services/index.md)
       - Egress Tls Origination
