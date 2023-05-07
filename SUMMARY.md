@@ -111,6 +111,8 @@
         * [协议选择](ops/configuration/traffic-management/protocol-selection/index.md)
       - Tls Configuration
         * [理解 TLS 配置](ops/configuration/traffic-management/tls-configuration/index.md)
+      - Traffic Routing
+        * [了解流量路由](ops/configuration/traffic-management/traffic-routing/index.md)
       * [流量管理](ops/configuration/traffic-management/_index.md)
     * [配置](ops/configuration/_index.md)
   - Deployment
