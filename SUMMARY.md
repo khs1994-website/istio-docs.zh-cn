@@ -48,6 +48,8 @@
       * [Ambient Mesh 架构](ops/ambient/architecture/index.md)
     - Getting Started
       * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
+    - Usage
+      * [Ambient Mesh 使用指南](ops/ambient/usage/index.md)
     * [Ambient Mesh [施工中]](ops/ambient/_index.md)
   - Best Practices
     - Deployment
@@ -158,6 +160,8 @@
       * [Jaeger](ops/integrations/jaeger/index.md)
     - Kiali
       * [Kiali](ops/integrations/kiali/index.md)
+    - Loadbalancers
+      * [第三方负载均衡器](ops/integrations/loadbalancers/index.md)
     - Prometheus
       * [Prometheus](ops/integrations/prometheus/index.md)
     - Skywalking
@@ -270,6 +274,8 @@
         * [授权策略](reference/config/security/conditions/index.md)
       - Constraints And Properties
         * [RBAC 约束和属性（不建议使用）](reference/config/security/constraints-and-properties/index.md)
+      - Normalization
+        * [授权策略规范化](reference/config/security/normalization/index.md)
       * [Security](reference/config/security/_index.md)
     - Type
       * [常见类型](reference/config/type/_index.md)
