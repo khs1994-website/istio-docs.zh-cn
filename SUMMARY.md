@@ -229,12 +229,16 @@
         * [Virtual Service Ineffective Match](reference/config/analysis/ist0131/index.md)
       - Ist 0132
         * [Virtual Service Host Not Found In Gateway](reference/config/analysis/ist0132/index.md)
+      - Ist 0134
+        * [Service Entry Addresses Required](reference/config/analysis/ist0134/index.md)
       - Ist 0135
         * [Deprecated Annotation](reference/config/analysis/ist0135/index.md)
       - Ist 0136
         * [Alpha Annotation](reference/config/analysis/ist0136/index.md)
       - Ist 0137
         * [Deployment Conflicting Ports](reference/config/analysis/ist0137/index.md)
+      - Ist 0143
+        * [Localhost Listener](reference/config/analysis/ist0143/index.md)
       - Ist 0144
         * [Invalid Application UID](reference/config/analysis/ist0144/index.md)
       - Ist 0150
@@ -415,7 +419,7 @@
       - Multi Primary Multi Network
         * [跨网络多主架构的安装](setup/install/multicluster/multi-primary_multi-network/index.md)
       - Primary Remote
-        * [主-从架构的安装](setup/install/multicluster/primary-remote/index.md)
+        * [主从架构的安装](setup/install/multicluster/primary-remote/index.md)
       - Primary Remote Multi Network
         * [跨网络主从架构的安装](setup/install/multicluster/primary-remote_multi-network/index.md)
       - Verify
