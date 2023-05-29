@@ -273,6 +273,7 @@
     - Proxy Extensions
       - Wasm Telemetry
         * [基于 Wasm 的遥测](reference/config/proxy_extensions/wasm_telemetry/index.md)
+      * [代理扩展](reference/config/proxy_extensions/_index.md)
     - Security
       - Conditions
         * [授权策略](reference/config/security/conditions/index.md)
