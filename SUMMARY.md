@@ -122,8 +122,6 @@
       * [架构](ops/deployment/architecture/index.md)
     - Deployment Models
       * [部署模型](ops/deployment/deployment-models/index.md)
-    - Performance And Scalability
-      * [性能和可扩展性](ops/deployment/performance-and-scalability/index.md)
     - Requirements
       * [应用程序要求](ops/deployment/requirements/index.md)
     - Vm Architecture
