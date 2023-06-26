@@ -50,7 +50,7 @@
       * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
     - Usage
       * [Ambient Mesh 使用指南](ops/ambient/usage/index.md)
-    * [Ambient Mesh [施工中]](ops/ambient/_index.md)
+    * [Ambient Mesh](ops/ambient/_index.md)
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
