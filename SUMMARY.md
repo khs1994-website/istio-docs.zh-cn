@@ -72,6 +72,8 @@
       * [可观测性问题](ops/common-problems/observability-issues/index.md)
     - Security Issues
       * [安全问题](ops/common-problems/security-issues/index.md)
+    - Upgrade Issues
+      * [升级问题](ops/common-problems/upgrade-issues/index.md)
     - Validation
       * [配置验证的问题](ops/common-problems/validation/index.md)
     * [常见问题](ops/common-problems/_index.md)
