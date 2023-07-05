@@ -133,7 +133,7 @@
     - Check Inject
       * [使用 istioctl check-inject 验证 Istio Sidecar 注入](ops/diagnostic-tools/check-inject/index.md)
     - Cni
-      * [Troubleshooting The Istio CNI Plugin](ops/diagnostic-tools/cni/index.md)
+      * [Istio CNI 插件故障排除](ops/diagnostic-tools/cni/index.md)
     - Component Logging
       * [组件日志记录](ops/diagnostic-tools/component-logging/index.md)
     - Controlz
