@@ -322,6 +322,7 @@
     * [Pilot](reference/glossary/pilot.md)
     * [Pod](reference/glossary/pod.md)
     * [Primary Cluster](reference/glossary/primary-cluster.md)
+    * [Proxyless](reference/glossary/proxyless.md)
     * [Remote Cluster](reference/glossary/remote-cluster.md)
     * [Routing Rules](reference/glossary/routing-rules.md)
     * [Secure Naming](reference/glossary/secure-naming.md)
