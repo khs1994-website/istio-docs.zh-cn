@@ -277,8 +277,6 @@
     - Security
       - Conditions
         * [授权策略](reference/config/security/conditions/index.md)
-      - Constraints And Properties
-        * [RBAC 约束和属性（不建议使用）](reference/config/security/constraints-and-properties/index.md)
       - Normalization
         * [授权策略规范化](reference/config/security/normalization/index.md)
       * [Security](reference/config/security/_index.md)
