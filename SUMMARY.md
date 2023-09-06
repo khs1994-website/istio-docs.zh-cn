@@ -207,8 +207,6 @@
         * [MTLS Policy Conflict](reference/config/analysis/ist0113/index.md)
       - Ist 0116
         * [Deployment Associated To Multiple Services](reference/config/analysis/ist0116/index.md)
-      - Ist 0117
-        * [Deployment Requires Service Associated](reference/config/analysis/ist0117/index.md)
       - Ist 0118
         * [Port Name Is Not Under Naming Convention](reference/config/analysis/ist0118/index.md)
       - Ist 0119
