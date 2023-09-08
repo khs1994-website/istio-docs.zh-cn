@@ -437,6 +437,8 @@
   - Platform Setup
     - Alicloud
       * [阿里云](setup/platform-setup/alicloud/index.md)
+    - Amazon Eks
+      * [Amazon EKS](setup/platform-setup/amazon-eks/index.md)
     - Azure
       * [Azure](setup/platform-setup/azure/index.md)
     - Docker
