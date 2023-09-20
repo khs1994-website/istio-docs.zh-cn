@@ -168,6 +168,8 @@
       * [Prometheus](ops/integrations/prometheus/index.md)
     - Skywalking
       * [Apache Sky Walking](ops/integrations/skywalking/index.md)
+    - Spire
+      * [SPIRE](ops/integrations/spire/index.md)
     - Zipkin
       * [Zipkin](ops/integrations/zipkin/index.md)
     * [集成](ops/integrations/_index.md)
