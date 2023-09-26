@@ -189,8 +189,6 @@
         * [Namespace Not Injected](reference/config/analysis/ist0102/index.md)
       - Ist 0103
         * [Pod Missing Proxy](reference/config/analysis/ist0103/index.md)
-      - Ist 0104
-        * [Gateway Port Not On Workload](reference/config/analysis/ist0104/index.md)
       - Ist 0106
         * [Schema Validation Error](reference/config/analysis/ist0106/index.md)
       - Ist 0107
