@@ -286,7 +286,6 @@
       * [常见类型](reference/config/type/_index.md)
     * [配置](reference/config/_index.md)
   - Glossary
-    * [Adapters](reference/glossary/adapters.md)
     * [Ambient](reference/glossary/ambient.md)
     * [Annotation](reference/glossary/annotation.md)
     * [Attribute](reference/glossary/attribute.md)
@@ -312,7 +311,6 @@
     * [Managed Control Plane](reference/glossary/managed-control-plane.md)
     * [Mesh Federation](reference/glossary/mesh-federation.md)
     * [Micro Segmentation](reference/glossary/micro-segmentation.md)
-    * [Mixer](reference/glossary/mixer.md)
     * [Multi Mesh](reference/glossary/multi-mesh.md)
     * [Multicluster](reference/glossary/multicluster.md)
     * [Mutual TLS Authentication](reference/glossary/mutual-tls.md)
@@ -566,8 +564,6 @@
     - Cert Management
       - Custom Ca K 8 S
         * [使用 Kubernetes CSR 自定义 CA 集成](tasks/security/cert-management/custom-ca-k8s/index.md)
-      - Dns Cert
-        * [Istio 的 DNS 证书管理](tasks/security/cert-management/dns-cert/index.md)
       - Plugin Ca Cert
         * [插入 CA 证书](tasks/security/cert-management/plugin-ca-cert/index.md)
       * [证书管理](tasks/security/cert-management/_index.md)
