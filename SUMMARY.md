@@ -263,6 +263,8 @@
         * [Multiple Telemetries Without Workload Selectors](reference/config/analysis/ist0160/index.md)
       - Ist 0161
         * [Invalid Gateway Credential](reference/config/analysis/ist0161/index.md)
+      - Ist 0162
+        * [Gateway Port Not Defined On Service](reference/config/analysis/ist0162/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
