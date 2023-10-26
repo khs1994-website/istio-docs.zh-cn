@@ -265,6 +265,10 @@
         * [Invalid Gateway Credential](reference/config/analysis/ist0161/index.md)
       - Ist 0162
         * [Gateway Port Not Defined On Service](reference/config/analysis/ist0162/index.md)
+      - Ist 0163
+        * [Invalid External Control Plane Config](reference/config/analysis/ist0163/index.md)
+      - Ist 0164
+        * [External Control Plane Address Is Not A Hostname](reference/config/analysis/ist0164/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
