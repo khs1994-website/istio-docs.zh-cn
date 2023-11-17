@@ -49,7 +49,13 @@
     - Getting Started
       * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
     - Usage
-      * [Ambient Mesh 使用指南](ops/ambient/usage/index.md)
+      - Install
+        * [安装指南](ops/ambient/usage/install/index.md)
+      - Waypoint
+        * [带有 Waypoint 的 L7 网络和服务](ops/ambient/usage/waypoint/index.md)
+      - Ztunnel
+        * [使用 ztunnel 实现 L4 联网和 mTLS](ops/ambient/usage/ztunnel/index.md)
+      * [Ambient Mesh 用户指南](ops/ambient/usage/_index.md)
     * [Ambient Mesh](ops/ambient/_index.md)
   - Best Practices
     - Deployment
