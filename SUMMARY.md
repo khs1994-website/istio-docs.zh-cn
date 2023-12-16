@@ -48,6 +48,10 @@
       * [Ambient Mesh 架构](ops/ambient/architecture/index.md)
     - Getting Started
       * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
+    - Install
+      - Helm Installation
+        * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
+      * [安装指南](ops/ambient/install/_index.md)
     - Usage
       - Install
         * [安装指南](ops/ambient/usage/install/index.md)
@@ -541,7 +545,7 @@
       * [指标](tasks/observability/metrics/_index.md)
     - Telemetry
       * [Telemetry API](tasks/observability/telemetry/index.md)
-    * [可观察性](tasks/observability/_index.md)
+    * [可观测性](tasks/observability/_index.md)
   - Policy Enforcement
     - Rate Limit
       * [使用 Envoy 启用速率限制](tasks/policy-enforcement/rate-limit/index.md)
