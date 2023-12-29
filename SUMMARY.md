@@ -219,8 +219,6 @@
         * [Deployment Associated To Multiple Services](reference/config/analysis/ist0116/index.md)
       - Ist 0118
         * [Port Name Is Not Under Naming Convention](reference/config/analysis/ist0118/index.md)
-      - Ist 0119
-        * [Jwt Failure Due To Invalid Service Port Prefix](reference/config/analysis/ist0119/index.md)
       - Ist 0122
         * [Invalid Regexp](reference/config/analysis/ist0122/index.md)
       - Ist 0123
@@ -279,6 +277,8 @@
         * [Invalid External Control Plane Config](reference/config/analysis/ist0163/index.md)
       - Ist 0164
         * [External Control Plane Address Is Not A Hostname](reference/config/analysis/ist0164/index.md)
+      - Ist 0166
+        * [Ineffective Selector](reference/config/analysis/ist0166/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
