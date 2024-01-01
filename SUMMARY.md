@@ -53,8 +53,6 @@
         * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
       * [安装指南](ops/ambient/install/_index.md)
     - Usage
-      - Install
-        * [安装指南](ops/ambient/usage/install/index.md)
       - Waypoint
         * [带有 Waypoint 的 L7 网络和服务](ops/ambient/usage/waypoint/index.md)
       - Ztunnel
