@@ -211,8 +211,6 @@
         * [Multiple Sidecars Without Workload Selectors](reference/config/analysis/ist0111/index.md)
       - Ist 0112
         * [Virtual Service Destination Port Selector Required](reference/config/analysis/ist0112/index.md)
-      - Ist 0113
-        * [MTLS Policy Conflict](reference/config/analysis/ist0113/index.md)
       - Ist 0116
         * [Deployment Associated To Multiple Services](reference/config/analysis/ist0116/index.md)
       - Ist 0118
