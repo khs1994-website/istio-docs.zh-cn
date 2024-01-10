@@ -275,6 +275,8 @@
         * [External Control Plane Address Is Not A Hostname](reference/config/analysis/ist0164/index.md)
       - Ist 0166
         * [Ineffective Selector](reference/config/analysis/ist0166/index.md)
+      - Ist 0167
+        * [Ineffective Policy](reference/config/analysis/ist0167/index.md)
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
