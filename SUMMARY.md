@@ -607,7 +607,7 @@
       - Http Proxy
         * [使用外部 HTTPS 代理](tasks/traffic-management/egress/http-proxy/index.md)
       - Wildcard Egress Hosts
-        * [Wildcard 主机的 egress](tasks/traffic-management/egress/wildcard-egress-hosts/index.md)
+        * [Wildcard 主机的 Egress](tasks/traffic-management/egress/wildcard-egress-hosts/index.md)
       * [Egress](tasks/traffic-management/egress/_index.md)
     - Fault Injection
       * [故障注入](tasks/traffic-management/fault-injection/index.md)
