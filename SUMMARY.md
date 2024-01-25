@@ -52,6 +52,10 @@
       - Helm Installation
         * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
       * [安装指南](ops/ambient/install/_index.md)
+    - Upgrade
+      - Helm Upgrade
+        * [使用 Helm 升级](ops/ambient/upgrade/helm-upgrade/index.md)
+      * [升级指南](ops/ambient/upgrade/_index.md)
     - Usage
       - Waypoint
         * [带有 Waypoint 的 L7 网络和服务](ops/ambient/usage/waypoint/index.md)
