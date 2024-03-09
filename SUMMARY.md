@@ -45,9 +45,9 @@
 - Ops
   - Ambient
     - Architecture
-      * [Ambient Mesh 架构](ops/ambient/architecture/index.md)
+      * [Ambient 模式架构](ops/ambient/architecture/index.md)
     - Getting Started
-      * [Ambient Mesh 入门](ops/ambient/getting-started/index.md)
+      * [Ambient 模式入门](ops/ambient/getting-started/index.md)
     - Install
       - Helm Installation
         * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
@@ -58,11 +58,11 @@
       * [升级指南](ops/ambient/upgrade/_index.md)
     - Usage
       - Waypoint
-        * [带有 Waypoint 的 L7 网络和服务](ops/ambient/usage/waypoint/index.md)
+        * [带有 Waypoint 代理的 Layer 7 网络和服务](ops/ambient/usage/waypoint/index.md)
       - Ztunnel
-        * [使用 ztunnel 实现 L4 联网和 mTLS](ops/ambient/usage/ztunnel/index.md)
-      * [Ambient Mesh 用户指南](ops/ambient/usage/_index.md)
-    * [Ambient Mesh](ops/ambient/_index.md)
+        * [使用 ztunnel 实现 Layer 4 网络和 mTLS](ops/ambient/usage/ztunnel/index.md)
+      * [Ambient 模式用户指南](ops/ambient/usage/_index.md)
+    * [Ambient 模式](ops/ambient/_index.md)
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
