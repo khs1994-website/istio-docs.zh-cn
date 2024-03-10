@@ -57,6 +57,8 @@
         * [使用 Helm 升级](ops/ambient/upgrade/helm-upgrade/index.md)
       * [升级指南](ops/ambient/upgrade/_index.md)
     - Usage
+      - Traffic Redirection
+        * [ztunnel 流量重定向](ops/ambient/usage/traffic-redirection/index.md)
       - Waypoint
         * [带有 Waypoint 代理的 Layer 7 网络和服务](ops/ambient/usage/waypoint/index.md)
       - Ztunnel
