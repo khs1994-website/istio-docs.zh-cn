@@ -51,6 +51,8 @@
     - Install
       - Helm Installation
         * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
+      - Platform Prerequisites
+        * [平台特定先决条件](ops/ambient/install/platform-prerequisites/index.md)
       * [安装指南](ops/ambient/install/_index.md)
     - Upgrade
       - Helm Upgrade
