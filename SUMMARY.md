@@ -123,6 +123,8 @@
         * [理解 DNS](ops/configuration/traffic-management/dns/index.md)
       - Dns Proxy
         * [DNS 代理](ops/configuration/traffic-management/dns-proxy/index.md)
+      - Manage Mesh Certificates
+        * [管理网格内证书](ops/configuration/traffic-management/manage-mesh-certificates/index.md)
       - Multicluster
         * [多集群流量管理](ops/configuration/traffic-management/multicluster/index.md)
       - Network Topologies
