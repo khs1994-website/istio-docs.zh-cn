@@ -1,5 +1,29 @@
 # [Istio 中文文档](https://github.com/istio/istio.io)
 
+- Ambient
+  - Architecture
+    * [架构](ambient/architecture/index.md)
+  - Getting Started
+    * [入门](ambient/getting-started/index.md)
+  - Install
+    - Helm Installation
+      * [通过 Helm 安装](ambient/install/helm-installation/index.md)
+    - Platform Prerequisites
+      * [平台特定先决条件](ambient/install/platform-prerequisites/index.md)
+    * [安装指南](ambient/install/_index.md)
+  - Upgrade
+    - Helm Upgrade
+      * [使用 Helm 升级](ambient/upgrade/helm-upgrade/index.md)
+    * [升级指南](ambient/upgrade/_index.md)
+  - Usage
+    - Traffic Redirection
+      * [ztunnel 流量重定向](ambient/usage/traffic-redirection/index.md)
+    - Waypoint
+      * [带有 Waypoint 代理的 Layer 7 网络和服务](ambient/usage/waypoint/index.md)
+    - Ztunnel
+      * [使用 ztunnel 实现 Layer 4 网络和 mTLS](ambient/usage/ztunnel/index.md)
+    * [用户指南](ambient/usage/_index.md)
+  * [Ambient 模式](ambient/_index.md)
 - Concepts
   - Observability
     * [可观测性](concepts/observability/index.md)
@@ -43,30 +67,6 @@
     * [在虚拟机上部署 Bookinfo 应用程序](examples/virtual-machines/index.md)
   * [示例](examples/_index.md)
 - Ops
-  - Ambient
-    - Architecture
-      * [Ambient 模式架构](ops/ambient/architecture/index.md)
-    - Getting Started
-      * [Ambient 模式入门](ops/ambient/getting-started/index.md)
-    - Install
-      - Helm Installation
-        * [通过 Helm 安装](ops/ambient/install/helm-installation/index.md)
-      - Platform Prerequisites
-        * [平台特定先决条件](ops/ambient/install/platform-prerequisites/index.md)
-      * [安装指南](ops/ambient/install/_index.md)
-    - Upgrade
-      - Helm Upgrade
-        * [使用 Helm 升级](ops/ambient/upgrade/helm-upgrade/index.md)
-      * [升级指南](ops/ambient/upgrade/_index.md)
-    - Usage
-      - Traffic Redirection
-        * [ztunnel 流量重定向](ops/ambient/usage/traffic-redirection/index.md)
-      - Waypoint
-        * [带有 Waypoint 代理的 Layer 7 网络和服务](ops/ambient/usage/waypoint/index.md)
-      - Ztunnel
-        * [使用 ztunnel 实现 Layer 4 网络和 mTLS](ops/ambient/usage/ztunnel/index.md)
-      * [Ambient 模式用户指南](ops/ambient/usage/_index.md)
-    * [Ambient 模式](ops/ambient/_index.md)
   - Best Practices
     - Deployment
       * [Deployment 最佳实践](ops/best-practices/deployment/index.md)
