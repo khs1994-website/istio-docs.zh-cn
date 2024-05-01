@@ -502,7 +502,7 @@
     - In Place
       * [原地升级](setup/upgrade/in-place/index.md)
     * [升级 Istio](setup/upgrade/_index.md)
-  * [安装](setup/_index.md)
+  * [Sidecar 模式](setup/_index.md)
 - Tasks
   - Extensibility
     - Wasm Module Distribution
