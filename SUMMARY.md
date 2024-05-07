@@ -2,7 +2,13 @@
 
 - Ambient
   - Architecture
-    * [架构](ambient/architecture/index.md)
+    - Hbone
+      * [HBONE](ambient/architecture/hbone/index.md)
+    - Traffic Redirection
+      * [ztunnel 流量重定向](ambient/architecture/traffic-redirection/index.md)
+    - Traffic Routing
+      * [流量路由](ambient/architecture/traffic-routing/index.md)
+    * [架构](ambient/architecture/_index.md)
   - Getting Started
     * [入门](ambient/getting-started/index.md)
   - Install
@@ -16,8 +22,6 @@
       * [使用 Helm 升级](ambient/upgrade/helm-upgrade/index.md)
     * [升级指南](ambient/upgrade/_index.md)
   - Usage
-    - Traffic Redirection
-      * [ztunnel 流量重定向](ambient/usage/traffic-redirection/index.md)
     - Waypoint
       * [带有 Waypoint 代理的 Layer 7 网络和服务](ambient/usage/waypoint/index.md)
     - Ztunnel
