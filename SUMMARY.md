@@ -2,6 +2,10 @@
 
 - Ambient
   - Architecture
+    - Control Plane
+      * [Ambient 和 Istio 控制平面](ambient/architecture/control-plane/index.md)
+    - Data Plane
+      * [Ambient 数据平面](ambient/architecture/data-plane/index.md)
     - Hbone
       * [HBONE](ambient/architecture/hbone/index.md)
     - Traffic Redirection
@@ -23,7 +27,7 @@
     * [升级指南](ambient/upgrade/_index.md)
   - Usage
     - Waypoint
-      * [带有 Waypoint 代理的 Layer 7 网络和服务](ambient/usage/waypoint/index.md)
+      * [配置 waypoint 代理](ambient/usage/waypoint/index.md)
     - Ztunnel
       * [使用 ztunnel 实现 Layer 4 网络和 mTLS](ambient/usage/ztunnel/index.md)
     * [用户指南](ambient/usage/_index.md)
@@ -107,6 +111,8 @@
         * [Istio 服务的健康检查](ops/configuration/mesh/app-health-check/index.md)
       - Config Resource Ready
         * [等待应用的配置资源状态就绪](ops/configuration/mesh/config-resource-ready/index.md)
+      - Configuration Scoping
+        * [配置范围](ops/configuration/mesh/configuration-scoping/index.md)
       - Webhook
         * [动态准入 Webhook 概述](ops/configuration/mesh/webhook/index.md)
       * [网格配置](ops/configuration/mesh/_index.md)
@@ -526,6 +532,8 @@
         * [Open Telemetry](tasks/observability/distributed-tracing/opentelemetry/index.md)
       - Overview
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
+      - Sampling
+        * [链路采样](tasks/observability/distributed-tracing/sampling/index.md)
       - Skywalking
         * [Apache Sky Walking](tasks/observability/distributed-tracing/skywalking/index.md)
       - Telemetry Api
@@ -613,13 +621,13 @@
       - Egress Control
         * [访问外部服务](tasks/traffic-management/egress/egress-control/index.md)
       - Egress Gateway
-        * [出口网关](tasks/traffic-management/egress/egress-gateway/index.md)
+        * [Egress 网关](tasks/traffic-management/egress/egress-gateway/index.md)
       - Egress Gateway Tls Origination
         * [Egress 网关的 TLS 发起过程](tasks/traffic-management/egress/egress-gateway-tls-origination/index.md)
       - Egress Kubernetes Services
-        * [Kubernetes Egress 流量服务](tasks/traffic-management/egress/egress-kubernetes-services/index.md)
+        * [Kubernetes 出口流量服务](tasks/traffic-management/egress/egress-kubernetes-services/index.md)
       - Egress Tls Origination
-        * [Egress TLS Origination](tasks/traffic-management/egress/egress-tls-origination/index.md)
+        * [Egress TLS 源](tasks/traffic-management/egress/egress-tls-origination/index.md)
       - Http Proxy
         * [使用外部 HTTPS 代理](tasks/traffic-management/egress/http-proxy/index.md)
       - Wildcard Egress Hosts
