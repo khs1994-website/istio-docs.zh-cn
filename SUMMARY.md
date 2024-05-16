@@ -10,8 +10,6 @@
       * [HBONE](ambient/architecture/hbone/index.md)
     - Traffic Redirection
       * [ztunnel 流量重定向](ambient/architecture/traffic-redirection/index.md)
-    - Traffic Routing
-      * [流量路由](ambient/architecture/traffic-routing/index.md)
     * [架构](ambient/architecture/_index.md)
   - Getting Started
     * [入门](ambient/getting-started/index.md)
@@ -21,11 +19,25 @@
     - Platform Prerequisites
       * [平台特定先决条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
+  - Overview
+    * [概述](ambient/overview/index.md)
   - Upgrade
     - Helm Upgrade
       * [使用 Helm 升级](ambient/upgrade/helm-upgrade/index.md)
     * [升级指南](ambient/upgrade/_index.md)
   - Usage
+    - Add Workloads
+      * [将工作负载添加到网格中](ambient/usage/add-workloads/index.md)
+    - Extend Waypoint Wasm
+      * [使用 WebAssembly 插件扩展 waypoint](ambient/usage/extend-waypoint-wasm/index.md)
+    - L 4 Policy
+      * [使用 Layer 4 安全策略](ambient/usage/l4-policy/index.md)
+    - L 7 Features
+      * [使用 Layer 7 功能](ambient/usage/l7-features/index.md)
+    - Troubleshoot Waypoint
+      * [waypoint 问题故障排除](ambient/usage/troubleshoot-waypoint/index.md)
+    - Troubleshoot Ztunnel
+      * [ztunnel 的连接问题排查](ambient/usage/troubleshoot-ztunnel/index.md)
     - Waypoint
       * [配置 waypoint 代理](ambient/usage/waypoint/index.md)
     - Ztunnel
@@ -325,6 +337,7 @@
     * [Attribute](reference/glossary/attribute.md)
     * [自动 mTLS](reference/glossary/auto-mtls.md)
     * [Cluster](reference/glossary/cluster.md)
+    * [CNI](reference/glossary/cni.md)
     * [Control Plane](reference/glossary/control-plane.md)
     * [CRD](reference/glossary/crds.md)
     * [Data Plane](reference/glossary/data-plane.md)
@@ -526,8 +539,6 @@
         * [Lightstep](tasks/observability/distributed-tracing/lightstep/index.md)
       - Mesh And Proxy Config
         * [使用 MeshConfig 和 Pod 注解配置链路追踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
-      - Opencensusagent
-        * [Open Census Agent](tasks/observability/distributed-tracing/opencensusagent/index.md)
       - Opentelemetry
         * [Open Telemetry](tasks/observability/distributed-tracing/opentelemetry/index.md)
       - Overview
