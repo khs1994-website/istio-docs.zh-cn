@@ -40,8 +40,6 @@
       * [ztunnel 的连接问题排查](ambient/usage/troubleshoot-ztunnel/index.md)
     - Waypoint
       * [配置 waypoint 代理](ambient/usage/waypoint/index.md)
-    - Ztunnel
-      * [使用 ztunnel 实现 Layer 4 网络和 mTLS](ambient/usage/ztunnel/index.md)
     * [用户指南](ambient/usage/_index.md)
   * [Ambient 模式](ambient/_index.md)
 - Concepts
