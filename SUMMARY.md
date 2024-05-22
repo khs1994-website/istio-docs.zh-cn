@@ -158,14 +158,16 @@
       * [流量管理](ops/configuration/traffic-management/_index.md)
     * [配置](ops/configuration/_index.md)
   - Deployment
+    - Application Requirements
+      * [应用程序要求](ops/deployment/application-requirements/index.md)
     - Architecture
       * [架构](ops/deployment/architecture/index.md)
     - Deployment Models
       * [部署模型](ops/deployment/deployment-models/index.md)
     - Performance And Scalability
       * [性能和可扩展性](ops/deployment/performance-and-scalability/index.md)
-    - Requirements
-      * [应用程序要求](ops/deployment/requirements/index.md)
+    - Platform Requirements
+      * [平台要求](ops/deployment/platform-requirements/index.md)
     - Vm Architecture
       * [虚拟机架构](ops/deployment/vm-architecture/index.md)
     * [部署](ops/deployment/_index.md)
@@ -510,8 +512,6 @@
       * [Oracle Cloud 基础架构](setup/platform-setup/oci/index.md)
     - Openshift
       * [Open Shift](setup/platform-setup/openshift/index.md)
-    - Prerequisites
-      * [平台前提条件](setup/platform-setup/prerequisites/index.md)
     - Tencent Cloud Mesh
       * [腾讯云](setup/platform-setup/tencent-cloud-mesh/index.md)
     * [平台安装](setup/platform-setup/_index.md)
