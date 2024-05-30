@@ -247,8 +247,6 @@
         * [Deployment Associated To Multiple Services](reference/config/analysis/ist0116/index.md)
       - Ist 0118
         * [Port Name Is Not Under Naming Convention](reference/config/analysis/ist0118/index.md)
-      - Ist 0122
-        * [Invalid Regexp](reference/config/analysis/ist0122/index.md)
       - Ist 0123
         * [Namespace Multiple Injection Labels](reference/config/analysis/ist0123/index.md)
       - Ist 0125
