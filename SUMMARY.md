@@ -63,7 +63,7 @@
     - Bookinfo Kubernetes
       * [使用 Kubernetes 运行 Bookinfo](examples/microservices-istio/bookinfo-kubernetes/index.md)
     - Enable Istio All Microservices
-      * [在所有微服务中启用 Istio](examples/microservices-istio/enable-istio-all-microservices/index.md)
+      * [在所有微服务上启用 Istio](examples/microservices-istio/enable-istio-all-microservices/index.md)
     - Istio Ingress Gateway
       * [配置 Istio Ingress Gateway](examples/microservices-istio/istio-ingress-gateway/index.md)
     - Logs Istio
