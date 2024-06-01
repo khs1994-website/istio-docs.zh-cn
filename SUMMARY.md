@@ -31,9 +31,9 @@
     - Extend Waypoint Wasm
       * [使用 WebAssembly 插件扩展 waypoint](ambient/usage/extend-waypoint-wasm/index.md)
     - L 4 Policy
-      * [使用 Layer 4 安全策略](ambient/usage/l4-policy/index.md)
+      * [使用四层安全策略](ambient/usage/l4-policy/index.md)
     - L 7 Features
-      * [使用 Layer 7 功能](ambient/usage/l7-features/index.md)
+      * [使用七层功能](ambient/usage/l7-features/index.md)
     - Troubleshoot Waypoint
       * [waypoint 问题故障排除](ambient/usage/troubleshoot-waypoint/index.md)
     - Troubleshoot Ztunnel
@@ -344,6 +344,7 @@
     * [Envoy](reference/glossary/envoy.md)
     * [External Control Plane](reference/glossary/external-control-plane.md)
     * [Failure Domain](reference/glossary/failure-domain.md)
+    * [Gateway API](reference/glossary/gateway-api.md)
     * [Gateway](reference/glossary/gateway.md)
     * [HBONE](reference/glossary/hbone.md)
     * [Identity](reference/glossary/identity.md)
@@ -368,6 +369,7 @@
     * [Proxyless](reference/glossary/proxyless.md)
     * [Remote Cluster](reference/glossary/remote-cluster.md)
     * [Routing Rules](reference/glossary/routing-rules.md)
+    * [Secure L 4 Overlay](reference/glossary/secure-l4-overlay.md)
     * [Secure Naming](reference/glossary/secure-naming.md)
     * [Service Consumer](reference/glossary/service-consumer.md)
     * [Service Endpoint](reference/glossary/service-endpoint.md)
