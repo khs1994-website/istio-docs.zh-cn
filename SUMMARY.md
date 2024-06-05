@@ -12,6 +12,16 @@
       * [ztunnel 流量重定向](ambient/architecture/traffic-redirection/index.md)
     * [架构](ambient/architecture/_index.md)
   - Getting Started
+    - Cleanup
+      * [清理](ambient/getting-started/cleanup/index.md)
+    - Deploy Sample App
+      * [部署应用程序](ambient/getting-started/deploy-sample-app/index.md)
+    - Enforce Auth Policies
+      * [执行鉴权政策](ambient/getting-started/enforce-auth-policies/index.md)
+    - Manage Traffic
+      * [管理流量](ambient/getting-started/manage-traffic/index.md)
+    - Secure And Visualize
+      * [保护和可视化应用程序](ambient/getting-started/secure-and-visualize/index.md)
     * [入门](ambient/getting-started/index.md)
   - Install
     - Helm Installation
