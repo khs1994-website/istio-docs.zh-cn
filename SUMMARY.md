@@ -22,7 +22,7 @@
       * [管理流量](ambient/getting-started/manage-traffic/index.md)
     - Secure And Visualize
       * [保护和可视化应用程序](ambient/getting-started/secure-and-visualize/index.md)
-    * [入门](ambient/getting-started/index.md)
+    * [入门](ambient/getting-started/_index.md)
   - Install
     - Helm Installation
       * [通过 Helm 安装](ambient/install/helm-installation/index.md)
