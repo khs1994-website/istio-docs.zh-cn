@@ -171,6 +171,8 @@
     - Application Requirements
       * [应用程序要求](ops/deployment/application-requirements/index.md)
     - Architecture
+      - Cni
+        * [CNI 插件](ops/deployment/architecture/cni/index.md)
       * [架构](ops/deployment/architecture/index.md)
     - Deployment Models
       * [部署模型](ops/deployment/deployment-models/index.md)
@@ -224,6 +226,10 @@
       * [Zipkin](ops/integrations/zipkin/index.md)
     * [集成](ops/integrations/_index.md)
   * [运维](ops/_index.md)
+- Overview
+  - Dataplane Modes
+    * [Sidecar 还是 Ambient？](overview/dataplane-modes/index.md)
+  * [概述](overview/_index.md)
 - Reference
   - Commands
     * [命令](reference/commands/_index.md)
@@ -349,8 +355,9 @@
     * [Control Plane](reference/glossary/control-plane.md)
     * [CRD](reference/glossary/crds.md)
     * [Data Plane](reference/glossary/data-plane.md)
-    * [数据面模式](reference/glossary/dataplane-mode.md)
+    * [Data Plane Mode](reference/glossary/dataplane-mode.md)
     * [Destination](reference/glossary/destination.md)
+    * [E BPF](reference/glossary/ebpf.md)
     * [Envoy](reference/glossary/envoy.md)
     * [External Control Plane](reference/glossary/external-control-plane.md)
     * [Failure Domain](reference/glossary/failure-domain.md)
