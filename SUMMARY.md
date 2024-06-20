@@ -195,7 +195,7 @@
     - Istioctl
       * [使用 Istioctl 命令行工具](ops/diagnostic-tools/istioctl/index.md)
     - Istioctl Analyze
-      * [使用 Istioctl Analyze 诊断配置](ops/diagnostic-tools/istioctl-analyze/index.md)
+      * [使用 istioctl analyze 诊断配置](ops/diagnostic-tools/istioctl-analyze/index.md)
     - Istioctl Describe
       * [通过 istioctl describe 检查您的网格](ops/diagnostic-tools/istioctl-describe/index.md)
     - Multicluster
@@ -229,6 +229,10 @@
 - Overview
   - Dataplane Modes
     * [Sidecar 还是 Ambient？](overview/dataplane-modes/index.md)
+  - What Is Istio
+    * [Istio 是什么？](overview/what-is-istio/index.md)
+  - Why Choose Istio
+    * [为什么选择 Istio？](overview/why-choose-istio/index.md)
   * [概述](overview/_index.md)
 - Reference
   - Commands
