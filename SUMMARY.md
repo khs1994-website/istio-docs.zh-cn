@@ -454,7 +454,7 @@
 - Setup
   - Additional Setup
     - Cni
-      * [安装 Istio CNI 插件](setup/additional-setup/cni/index.md)
+      * [安装 Istio CNI 节点代理](setup/additional-setup/cni/index.md)
     - Compatibility Versions
       * [兼容版本](setup/additional-setup/compatibility-versions/index.md)
     - Config Profiles
