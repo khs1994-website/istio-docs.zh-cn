@@ -337,8 +337,6 @@
     - Networking
       * [流量管理](reference/config/networking/_index.md)
     - Proxy Extensions
-      - Wasm Telemetry
-        * [基于 Wasm 的遥测](reference/config/proxy_extensions/wasm_telemetry/index.md)
       * [代理扩展](reference/config/proxy_extensions/_index.md)
     - Security
       - Conditions
