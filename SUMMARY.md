@@ -129,8 +129,6 @@
     - Mesh
       - App Health Check
         * [Istio 服务的健康检查](ops/configuration/mesh/app-health-check/index.md)
-      - Config Resource Ready
-        * [等待应用的配置资源状态就绪](ops/configuration/mesh/config-resource-ready/index.md)
       - Configuration Scoping
         * [配置范围](ops/configuration/mesh/configuration-scoping/index.md)
       - Webhook
