@@ -465,6 +465,8 @@
       * [安装 Gateway](setup/additional-setup/gateway/index.md)
     - Getting Started
       * [开始使用 Istio 和 Kubernetes Gateway API](setup/additional-setup/getting-started/index.md)
+    - Getting Started Istio Apis
+      * [无需 Gateway API 开始使用](setup/additional-setup/getting-started-istio-apis/index.md)
     - Pod Security Admission
       * [通过 Pod 安全准入安装 Istio](setup/additional-setup/pod-security-admission/index.md)
     - Sidecar Injection
