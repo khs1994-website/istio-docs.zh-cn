@@ -459,12 +459,12 @@
       * [定制安装配置](setup/additional-setup/customize-installation/index.md)
     - Customize Installation Helm
       * [高级 Helm chart 自定义](setup/additional-setup/customize-installation-helm/index.md)
+    - Download Istio Release
+      * [下载 Istio 发行版](setup/additional-setup/download-istio-release/index.md)
     - Dual Stack
       * [在双栈模式中安装 Istio](setup/additional-setup/dual-stack/index.md)
     - Gateway
       * [安装 Gateway](setup/additional-setup/gateway/index.md)
-    - Getting Started
-      * [开始使用 Istio 和 Kubernetes Gateway API](setup/additional-setup/getting-started/index.md)
     - Getting Started Istio Apis
       * [无需 Gateway API 开始使用](setup/additional-setup/getting-started-istio-apis/index.md)
     - Pod Security Admission
