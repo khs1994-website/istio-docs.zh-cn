@@ -24,16 +24,18 @@
       * [保护和可视化应用程序](ambient/getting-started/secure-and-visualize/index.md)
     * [入门](ambient/getting-started/_index.md)
   - Install
-    - Helm Installation
-      * [通过 Helm 安装](ambient/install/helm-installation/index.md)
+    - Helm
+      * [通过 Helm 安装](ambient/install/helm/index.md)
+    - Istioctl
+      * [使用 istioctl 进行安装](ambient/install/istioctl/index.md)
     - Platform Prerequisites
       * [平台特定先决条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
   - Overview
     * [概述](ambient/overview/index.md)
   - Upgrade
-    - Helm Upgrade
-      * [使用 Helm 升级](ambient/upgrade/helm-upgrade/index.md)
+    - Helm
+      * [使用 Helm 升级](ambient/upgrade/helm/index.md)
     * [升级指南](ambient/upgrade/_index.md)
   - Usage
     - Add Workloads
@@ -48,6 +50,8 @@
       * [waypoint 问题故障排除](ambient/usage/troubleshoot-waypoint/index.md)
     - Troubleshoot Ztunnel
       * [ztunnel 的连接问题排查](ambient/usage/troubleshoot-ztunnel/index.md)
+    - Verify Mtls Enabled
+      * [验证双向 TLS 已启用](ambient/usage/verify-mtls-enabled/index.md)
     - Waypoint
       * [配置 waypoint 代理](ambient/usage/waypoint/index.md)
     * [用户指南](ambient/usage/_index.md)
