@@ -46,6 +46,8 @@
       * [使用四层安全策略](ambient/usage/l4-policy/index.md)
     - L 7 Features
       * [使用七层功能](ambient/usage/l7-features/index.md)
+    - Networkpolicy
+      * [Ambient 和 Kubernetes NetworkPolicy](ambient/usage/networkpolicy/index.md)
     - Troubleshoot Waypoint
       * [waypoint 问题故障排除](ambient/usage/troubleshoot-waypoint/index.md)
     - Troubleshoot Ztunnel
