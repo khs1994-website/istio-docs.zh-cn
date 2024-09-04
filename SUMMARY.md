@@ -29,7 +29,7 @@
     - Istioctl
       * [使用 istioctl 进行安装](ambient/install/istioctl/index.md)
     - Platform Prerequisites
-      * [平台特定先决条件](ambient/install/platform-prerequisites/index.md)
+      * [平台特定的前提条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
   - Overview
     * [概述](ambient/overview/index.md)
