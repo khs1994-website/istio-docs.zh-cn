@@ -503,8 +503,6 @@
       * [多集群安装](setup/install/multicluster/_index.md)
     - Multiple Controlplanes
       * [在单集群中安装多个 Istio 控制面](setup/install/multiple-controlplanes/index.md)
-    - Operator
-      * [使用 Istio Operator 安装](setup/install/operator/index.md)
     - Virtual Machine
       * [虚拟机安装](setup/install/virtual-machine/index.md)
     * [安装指南](setup/install/_index.md)
