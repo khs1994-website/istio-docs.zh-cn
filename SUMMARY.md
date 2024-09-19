@@ -184,6 +184,8 @@
       * [性能和可扩展性](ops/deployment/performance-and-scalability/index.md)
     - Platform Requirements
       * [平台要求](ops/deployment/platform-requirements/index.md)
+    - Security Model
+      * [安全模型](ops/deployment/security-model/index.md)
     - Vm Architecture
       * [虚拟机架构](ops/deployment/vm-architecture/index.md)
     * [部署](ops/deployment/_index.md)
