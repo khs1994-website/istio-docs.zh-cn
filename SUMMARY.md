@@ -499,7 +499,7 @@
       - Primary Remote
         * [主从架构的安装](setup/install/multicluster/primary-remote/index.md)
       - Primary Remote Multi Network
-        * [跨网络主从架构的安装](setup/install/multicluster/primary-remote_multi-network/index.md)
+        * [跨网络安装主从集群](setup/install/multicluster/primary-remote_multi-network/index.md)
       - Verify
         * [验证安装结果](setup/install/multicluster/verify/index.md)
       * [多集群安装](setup/install/multicluster/_index.md)
