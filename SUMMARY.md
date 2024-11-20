@@ -673,7 +673,7 @@
       - Gateway Api
         * [Kubernetes Gateway API](tasks/traffic-management/ingress/gateway-api/index.md)
       - Ingress Control
-        * [入口网关](tasks/traffic-management/ingress/ingress-control/index.md)
+        * [Ingress 网关](tasks/traffic-management/ingress/ingress-control/index.md)
       - Ingress Sidecar Tls Termination
         * [Ingress Sidecar TLS 终止](tasks/traffic-management/ingress/ingress-sidecar-tls-termination/index.md)
       - Ingress Sni Passthrough
