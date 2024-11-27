@@ -558,8 +558,6 @@
     - Distributed Tracing
       - Jaeger
         * [Jaeger](tasks/observability/distributed-tracing/jaeger/index.md)
-      - Lightstep
-        * [Lightstep](tasks/observability/distributed-tracing/lightstep/index.md)
       - Mesh And Proxy Config
         * [使用 MeshConfig 和 Pod 注解配置链路追踪](tasks/observability/distributed-tracing/mesh-and-proxy-config/index.md)
       - Opentelemetry
@@ -567,7 +565,7 @@
       - Overview
         * [概述](tasks/observability/distributed-tracing/overview/index.md)
       - Sampling
-        * [链路采样](tasks/observability/distributed-tracing/sampling/index.md)
+        * [配置链路采样](tasks/observability/distributed-tracing/sampling/index.md)
       - Skywalking
         * [Apache Sky Walking](tasks/observability/distributed-tracing/skywalking/index.md)
       - Telemetry Api
