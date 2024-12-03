@@ -15,7 +15,7 @@
     - Cleanup
       * [清理](ambient/getting-started/cleanup/index.md)
     - Deploy Sample App
-      * [部署应用程序](ambient/getting-started/deploy-sample-app/index.md)
+      * [部署示例应用程序](ambient/getting-started/deploy-sample-app/index.md)
     - Enforce Auth Policies
       * [执行鉴权政策](ambient/getting-started/enforce-auth-policies/index.md)
     - Manage Traffic
