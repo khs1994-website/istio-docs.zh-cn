@@ -25,6 +25,8 @@
     * [入门](ambient/getting-started/_index.md)
   - Install
     - Helm
+      - All In One
+        * [使用 Helm 安装（简易）](ambient/install/helm/all-in-one/index.md)
       * [通过 Helm 安装](ambient/install/helm/index.md)
     - Istioctl
       * [使用 istioctl 进行安装](ambient/install/istioctl/index.md)
