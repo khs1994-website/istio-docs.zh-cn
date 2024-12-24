@@ -37,6 +37,8 @@
     * [概述](ambient/overview/index.md)
   - Upgrade
     - Helm
+      - All In One
+        * [使用 Helm 升级（简易）](ambient/upgrade/helm/all-in-one/index.md)
       * [使用 Helm 升级](ambient/upgrade/helm/index.md)
     * [升级指南](ambient/upgrade/_index.md)
   - Usage
