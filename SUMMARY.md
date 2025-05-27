@@ -239,6 +239,8 @@
 - Overview
   - Dataplane Modes
     * [Sidecar 还是 Ambient？](overview/dataplane-modes/index.md)
+  - Quickstart
+    * [快速入门](overview/quickstart/index.md)
   - What Is Istio
     * [Istio 是什么？](overview/what-is-istio/index.md)
   - Why Choose Istio
