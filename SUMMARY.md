@@ -30,6 +30,10 @@
       * [通过 Helm 安装](ambient/install/helm/index.md)
     - Istioctl
       * [使用 istioctl 进行安装](ambient/install/istioctl/index.md)
+    - Multicluster
+      - Before You Begin
+        * [开始之前](ambient/install/multicluster/before-you-begin/index.md)
+      * [安装多集群](ambient/install/multicluster/_index.md)
     - Platform Prerequisites
       * [平台特定的前提条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
