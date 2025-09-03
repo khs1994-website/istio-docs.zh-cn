@@ -33,6 +33,10 @@
     - Multicluster
       - Before You Begin
         * [开始之前](ambient/install/multicluster/before-you-begin/index.md)
+      - Multi Primary Multi Network
+        * [在不同的网络基础上安装 Ambient 多主模式](ambient/install/multicluster/multi-primary_multi-network/index.md)
+      - Verify
+        * [验证 Ambient 安装](ambient/install/multicluster/verify/index.md)
       * [安装多集群](ambient/install/multicluster/_index.md)
     - Platform Prerequisites
       * [平台特定的前提条件](ambient/install/platform-prerequisites/index.md)
