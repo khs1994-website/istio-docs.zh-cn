@@ -184,6 +184,8 @@
       * [流量管理](ops/configuration/traffic-management/_index.md)
     * [配置](ops/configuration/_index.md)
   - Deployment
+    - Ambient Mc Perf
+      * [Ambient 多集群性能](ops/deployment/ambient-mc-perf/index.md)
     - Application Requirements
       * [应用程序要求](ops/deployment/application-requirements/index.md)
     - Architecture
