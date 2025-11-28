@@ -33,6 +33,8 @@
     - Multicluster
       - Before You Begin
         * [开始之前](ambient/install/multicluster/before-you-begin/index.md)
+      - Failover
+        * [在多集群 Ambient 安装中配置故障转移行为](ambient/install/multicluster/failover/index.md)
       - Multi Primary Multi Network
         * [在不同的网络基础上安装 Ambient 多主模式](ambient/install/multicluster/multi-primary_multi-network/index.md)
       - Verify
