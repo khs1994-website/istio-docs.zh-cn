@@ -610,6 +610,8 @@
         * [自定义 Istio 指标](tasks/observability/metrics/customize-metrics/index.md)
       - Querying Metrics
         * [通过 Prometheus 查询度量指标](tasks/observability/metrics/querying-metrics/index.md)
+      - Secure Metrics
+        * [保护 Istio Sidecar 和网关的 Prometheus 数据抓取过程](tasks/observability/metrics/secure-metrics/index.md)
       - Tcp Metrics
         * [收集 TCP 服务指标](tasks/observability/metrics/tcp-metrics/index.md)
       - Telemetry Api
@@ -688,6 +690,8 @@
     - Ingress
       - Gateway Api
         * [Kubernetes Gateway API](tasks/traffic-management/ingress/gateway-api/index.md)
+      - Gateway Api Inference Extension
+        * [Kubernetes Gateway API 推理扩展](tasks/traffic-management/ingress/gateway-api-inference-extension/index.md)
       - Ingress Control
         * [Ingress 网关](tasks/traffic-management/ingress/ingress-control/index.md)
       - Ingress Sidecar Tls Termination
