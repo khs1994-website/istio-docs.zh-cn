@@ -37,6 +37,8 @@
         * [在多集群 Ambient 安装中配置故障转移行为](ambient/install/multicluster/failover/index.md)
       - Multi Primary Multi Network
         * [在不同的网络基础上安装 Ambient 多主模式](ambient/install/multicluster/multi-primary_multi-network/index.md)
+      - Observability
+        * [适用于 Ambient 多网络的 Kiali 仪表盘](ambient/install/multicluster/observability/index.md)
       - Verify
         * [验证 Ambient 安装](ambient/install/multicluster/verify/index.md)
       * [安装多集群](ambient/install/multicluster/_index.md)
