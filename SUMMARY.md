@@ -360,8 +360,6 @@
       - Message Format
         * [Analyzer Message Format](reference/config/analysis/message-format/index.md)
       * [配置分析消息](reference/config/analysis/_index.md)
-    - Config Status
-      * [状态字段配置](reference/config/config-status/index.md)
     - Metrics
       * [Istio 标准指标](reference/config/metrics/index.md)
     - Networking
