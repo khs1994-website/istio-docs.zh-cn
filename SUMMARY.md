@@ -64,6 +64,8 @@
       * [使用七层功能](ambient/usage/l7-features/index.md)
     - Networkpolicy
       * [Ambient 和 Kubernetes NetworkPolicy](ambient/usage/networkpolicy/index.md)
+    - Traffic Distribution
+      * [流量分发](ambient/usage/traffic-distribution/index.md)
     - Troubleshoot Waypoint
       * [waypoint 问题故障排除](ambient/usage/troubleshoot-waypoint/index.md)
     - Troubleshoot Ztunnel
@@ -497,6 +499,8 @@
       * [安装 Gateway](setup/additional-setup/gateway/index.md)
     - Getting Started Istio Apis
       * [无需 Gateway API 开始使用](setup/additional-setup/getting-started-istio-apis/index.md)
+    - Network Policy
+      * [Network Policy](setup/additional-setup/network-policy/index.md)
     - Pod Security Admission
       * [通过 Pod 安全准入安装 Istio](setup/additional-setup/pod-security-admission/index.md)
     - Sidecar Injection
