@@ -56,6 +56,8 @@
   - Usage
     - Add Workloads
       * [将工作负载添加到网格中](ambient/usage/add-workloads/index.md)
+    - Extend Waypoint Lua
+      * [使用 Lua 脚本扩展 Waypoint](ambient/usage/extend-waypoint-lua/index.md)
     - Extend Waypoint Wasm
       * [使用 WebAssembly 插件扩展 waypoint](ambient/usage/extend-waypoint-wasm/index.md)
     - L 4 Policy
