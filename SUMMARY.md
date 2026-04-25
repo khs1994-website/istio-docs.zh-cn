@@ -79,6 +79,8 @@
     * [用户指南](ambient/usage/_index.md)
   * [Ambient 模式](ambient/_index.md)
 - Concepts
+  - Extensibility
+    * [可扩展性](concepts/extensibility/trafficextension.md)
   - Observability
     * [可观测性](concepts/observability/index.md)
   - Security
@@ -579,8 +581,8 @@
   * [Sidecar 模式](setup/_index.md)
 - Tasks
   - Extensibility
-    - Wasm Module Distribution
-      * [WebAssembly 模块分发](tasks/extensibility/wasm-module-distribution/index.md)
+    - Wasm Modules
+      * [WebAssembly 模块执行](tasks/extensibility/wasm-modules/index.md)
     * [可扩展性](tasks/extensibility/_index.md)
   - Observability
     - Distributed Tracing
