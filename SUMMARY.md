@@ -87,8 +87,6 @@
     * [安全](concepts/security/index.md)
   - Traffic Management
     * [流量管理](concepts/traffic-management/index.md)
-  - Wasm
-    * [扩展性](concepts/wasm/index.md)
   * [概念](concepts/_index.md)
 - Examples
   - Bookinfo
@@ -581,6 +579,8 @@
   * [Sidecar 模式](setup/_index.md)
 - Tasks
   - Extensibility
+    - Lua Scripts
+      * [执行 Lua 脚本](tasks/extensibility/lua-scripts/index.md)
     - Wasm Modules
       * [WebAssembly 模块执行](tasks/extensibility/wasm-modules/index.md)
     * [可扩展性](tasks/extensibility/_index.md)
