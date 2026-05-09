@@ -45,6 +45,8 @@
     - Platform Prerequisites
       * [平台特定的前提条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
+  - Migrate
+    * [从 Sidecar 迁移至 Ambient](ambient/migrate/_index.md)
   - Overview
     * [概述](ambient/overview/index.md)
   - Upgrade
