@@ -46,6 +46,14 @@
       * [平台特定的前提条件](ambient/install/platform-prerequisites/index.md)
     * [安装指南](ambient/install/_index.md)
   - Migrate
+    - Before You Begin
+      * [开始之前](ambient/migrate/before-you-begin/index.md)
+    - Enable Ambient Mode
+      * [启用 Ambient 模式](ambient/migrate/enable-ambient-mode/index.md)
+    - Install Ambient Components
+      * [安装 Ambient 组件](ambient/migrate/install-ambient-components/index.md)
+    - Migrate Policies
+      * [迁移策略](ambient/migrate/migrate-policies/index.md)
     * [从 Sidecar 迁移至 Ambient](ambient/migrate/_index.md)
   - Overview
     * [概述](ambient/overview/index.md)
