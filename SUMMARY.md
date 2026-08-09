@@ -76,6 +76,8 @@
       * [使用七层功能](ambient/usage/l7-features/index.md)
     - Networkpolicy
       * [Ambient 和 Kubernetes NetworkPolicy](ambient/usage/networkpolicy/index.md)
+    - Serviceentry Visibility
+      * [ServiceEntry 可见性](ambient/usage/serviceentry-visibility/index.md)
     - Traffic Distribution
       * [流量分发](ambient/usage/traffic-distribution/index.md)
     - Troubleshoot Waypoint
