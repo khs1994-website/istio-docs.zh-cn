@@ -68,6 +68,8 @@
       * [将工作负载添加到网格中](ambient/usage/add-workloads/index.md)
     - Agentgateway
       * [使用 agentgateway](ambient/usage/agentgateway/index.md)
+    - Egress Gateway
+      * [出口网关](ambient/usage/egress-gateway/index.md)
     - Extend Waypoint Lua
       * [使用 Lua 脚本扩展 Waypoint](ambient/usage/extend-waypoint-lua/index.md)
     - Extend Waypoint Wasm
